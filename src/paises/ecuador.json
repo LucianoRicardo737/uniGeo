@@ -1,0 +1,133 @@
+{
+    "nameCountry":"Ecuador",
+    "coi":"ECU",
+    "domain":".ec",
+    "capitalCountry":"Quito",
+    "populationCountry":"17.562.800",
+    "SurfaceCountry":"256.370 km2",
+    "religionCountry":"Mayoritariamente Cristianismo",
+    "coinCountry":"Dólares USA",
+"states":[
+        {
+            "nameState":"Guayaquil",
+            "lat":"-2.19616",
+            "lon":"-79.88621"
+            
+        },
+        {
+            "nameState":"Quito",
+            "lat":"-0.22985",
+            "lon":"-78.52495"
+            
+    
+        },
+        {
+            "nameState":"Cuenca",
+            "lat":"-2.90055",
+            "lon":"-79.00453"
+            
+    
+        },
+        {
+            "nameState":"Machala",
+            "lat":"-3.25861",
+            "lon":"-79.96053"
+        },
+        {
+            "nameState":"Manta",
+            "lat":"-0.96212",
+            "lon":"-80.71271"
+    
+        },
+        {
+            "nameState":"Portoviejo",
+            "lat":"-1.05458",
+            "lon":"-80.45445"
+    
+        },
+        {
+            "nameState":"Esmeraldas",
+            "lat":"0.9592",
+            "lon":"-79.65397"
+    
+        },
+        {
+            "nameState":"Ambato",
+            "lat":"-1.24908",
+            "lon":"-78.61675"
+    
+        },
+        {
+            "nameState":"Milagro",
+            "lat":"-2.13404",
+            "lon":"-79.59415"
+    
+        },
+        {
+            "nameState":"Ibarra",
+            "lat":"0.35171",
+            "lon":"-78.12233"
+    
+        },
+        {
+            "nameState":"Tulcán",
+            "lat":"0.81187",
+            "lon":"-77.71727"
+    
+        },
+        {
+            "nameState":"Riobamba",
+            "lat":"-1.67098",
+            "lon":"-78.64712"
+    
+        },
+        {
+            "nameState":"Quevedo",
+            "lat":"-1.02863",
+            "lon":"-79.46352"
+    
+        },
+        {
+            "nameState":"Babahoyo",
+            "lat":"-1.80217",
+            "lon":"-79.53443"
+    
+        },
+        {
+            "nameState":"Santo Domingo de los Colorados",
+            "lat":"-0.25305",
+            "lon":"-79.17536"
+    
+        },
+        {
+            "nameState":"Salinas",
+            "lat":"-2.21452",
+            "lon":"-80.95151"
+    
+        },
+        {
+            "nameState":"Santa Elena",
+            "lat":"-2.22622",
+            "lon":"-80.85873"
+    
+        },
+        {
+            "nameState":"Eloy Alfaro",
+            "lat":"-2.17579",
+            "lon":"-79.855198"
+        },
+        {
+            "nameState":"Santa Rosa",
+            "lat":"-3.44882",
+            "lon":"-79.95952"
+    
+        },
+        {
+            "nameState":"Latacunga",
+            "lat":"-0.93521",
+            "lon":"-78.61554"
+    
+        }
+    ]
+
+}

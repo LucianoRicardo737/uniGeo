@@ -1,0 +1,98 @@
+{
+    "nameCountry":"Surinam",
+    "coi":"SUR",
+    "domain":".sr",
+    "capitalCountry":"Paramaribo",
+    "populationCountry":"581.363",
+    "SurfaceCountry":"163.820 km2",
+    "religionCountry":"Mayoritariamente Cristianismo",
+    "coinCountry":"Dólares surinameses",
+"states":[
+        {
+            "nameState":"Paramaribo",
+            "lat":"5.86638",
+            "lon":"-55.16682"
+            
+        },
+        {
+            "nameState":"Nieuw Nickerie",
+            "lat":"5.92606",
+            "lon":"-56.97297"
+            
+    
+        },
+        {
+            "nameState":"Groningen",
+            "lat":"5.8",
+            "lon":"-55.46667"
+            
+    
+        },
+        {
+            "nameState":"Lelydorp",
+            "lat":"5.7",
+            "lon":"-55.23333"
+        },
+        {
+            "nameState":"Brokopondo",
+            "lat":"5.05594",
+            "lon":"-54.98043"
+    
+        },
+        {
+            "nameState":"Moengo",
+            "lat":"5.61411",
+            "lon":"-54.40121"
+    
+        },
+        {
+            "nameState":"Nieuw Amsterdam",
+            "lat":"5.88573",
+            "lon":"-55.08871"
+    
+        },
+        {
+            "nameState":"Mariënburg",
+            "lat":"5.87722",
+            "lon":"-55.04322"
+    
+        },
+        {
+            "nameState":"Wageningen",
+            "lat":"5.7601",
+            "lon":"-56.66523"
+    
+        },
+        {
+            "nameState":"Albina",
+            "lat":"5.49788",
+            "lon":"-54.05522"
+    
+        },
+        {
+            "nameState":"Brownsweg",
+            "lat":"5.00435",
+            "lon":"-55.15333"
+    
+        },
+        {
+            "nameState":"Onverwacht",
+            "lat":"5.58983",
+            "lon":"-55.19462"
+    
+        },
+        {
+            "nameState":"Totness",
+            "lat":"5.87618",
+            "lon":"-56.32572"
+    
+        },
+        {
+            "nameState":"Benzdorp (Monte Hermon)",
+            "lat":"3.67207",
+            "lon":"-54.10355"
+    
+        }
+    ]
+
+}

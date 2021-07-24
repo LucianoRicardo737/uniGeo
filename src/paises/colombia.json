@@ -1,0 +1,133 @@
+{
+						"nameCountry":"Colombia",
+						"coi":"COL",
+						"domain":".co",
+						"capitalCountry":"Bogotá",
+						"populationCountry":"51.049.498",
+						"SurfaceCountry":"1.141.749 km2",
+						"religionCountry":"Mayoritariamente Cristianismo",
+						"coinCountry":"Pesos colombianos",
+            "states":[
+							{
+								"nameState":"Bogotá",
+								"lat":"4.60971",
+								"lon":"-74.08175"
+								
+							},
+							{
+								"nameState":"Cali",
+								"lat":"3.43722",
+								"lon":"-76.5225"
+								
+						
+							},
+							{
+								"nameState":"Medellín",
+								"lat":"6.25184",
+								"lon":"-75.56359"
+								
+						
+							},
+							{
+								"nameState":"Barranquilla",
+								"lat":"10.96854",
+								"lon":"-74.78132"
+							},
+							{
+								"nameState":"Cartagena de Indias",
+								"lat":"10.39972",
+								"lon":"-75.51444"
+						
+							},
+							{
+								"nameState":"Cúcuta",
+								"lat":"7.89391",
+								"lon":"-72.50782"
+						
+							},
+							{
+								"nameState":"Bucaramanga",
+								"lat":"7.12539",
+								"lon":"-73.1198"
+						
+							},
+							{
+								"nameState":"Pereira",
+								"lat":"4.81333",
+								"lon":"-75.69611"
+						
+							},
+							{
+								"nameState":"Santa Marta",
+								"lat":"11.24079",
+								"lon":"-74.19904"
+						
+							},
+							{
+								"nameState":"Ibagué",
+								"lat":"4.43889",
+								"lon":"-75.23222"
+						
+							},
+							{
+								"nameState":"Bello",
+								"lat":"6.33732",
+								"lon":"-75.55795"
+						
+							},
+							{
+								"nameState":"Pasto",
+								"lat":"1.21361",
+								"lon":"-77.28111"
+						
+							},
+							{
+								"nameState":"Manizales",
+								"lat":"5.06889",
+								"lon":"-75.51738"
+						
+							},
+							{
+								"nameState":"Neiva",
+								"lat":"2.9273",
+								"lon":"-75.28189"
+						
+							},
+							{
+								"nameState":"Soledad",
+								"lat":"10.91843",
+								"lon":"-74.76459"
+						
+							},
+							{
+								"nameState":"Villavicencio",
+								"lat":"4.142",
+								"lon":"-73.62664"
+						
+							},
+							{
+								"nameState":"Armenia",
+								"lat":"4.53389",
+								"lon":"-75.68111"
+						
+							},
+							{
+								"nameState":"Soacha",
+								"lat":"4.57937",
+								"lon":"-74.21682"
+							},
+							{
+								"nameState":"Valledupar",
+								"lat":"10.46314",
+								"lon":"-73.25322"
+						
+							},
+							{
+								"nameState":"Itagüí",
+								"lat":"6.18461",
+								"lon":"-75.59913"
+						
+							}
+						]
+            
+}

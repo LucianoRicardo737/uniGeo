@@ -1,0 +1,145 @@
+{
+    "nameCountry":"Venezuela",
+    "coi":"VEN",
+    "domain":".ve",
+    "capitalCountry":"Caracas",
+    "populationCountry":"28.515.829",
+    "SurfaceCountry":"912.050 km2",
+    "religionCountry":"Mayoritariamente Cristianismo",
+    "coinCountry":"Bolívares",
+"states":[
+        {
+            "nameState":"Caracas",
+            "lat":"10.48801",
+            "lon":"-66.87919"
+            
+        },
+        {
+            "nameState":"Maracay",
+            "lat":"10.23535",
+            "lon":"-67.59113"
+            
+    
+        },
+        {
+            "nameState":"Valencia",
+            "lat":"10.16202",
+            "lon":"-68.00765"
+            
+    
+        },
+        {
+            "nameState":"Maracaibo",
+            "lat":"10.66663",
+            "lon":"-71.61245"
+        },
+        {
+            "nameState":"Viña del Mar",
+            "lat":"-33.02457",
+            "lon":"-71.55183"
+    
+        },
+        {
+            "nameState":"Barquisimeto",
+            "lat":"10.0647",
+            "lon":"-69.35703"
+    
+        },
+        {
+            "nameState":"Ciudad Guayana",
+            "lat":"8.35122",
+            "lon":"-62.64102"
+    
+        },
+        {
+            "nameState":"Barcelona",
+            "lat":"10.13625",
+            "lon":"-64.68618"
+    
+        },
+        {
+            "nameState":"Puerto de La Cruz",
+            "lat":"10.21382",
+            "lon":"-64.6328"
+    
+        },
+        {
+            "nameState":"Petare",
+            "lat":"10.47679",
+            "lon":"-66.80786"
+    
+        },
+        {
+            "nameState":"Barinas",
+            "lat":"8.62261",
+            "lon":"-70.20749"
+    
+        },
+        {
+            "nameState":"Turmero",
+            "lat":"10.22856",
+            "lon":"-67.47421"
+    
+        },
+        {
+            "nameState":"Mérida",
+            "lat":"8.58972",
+            "lon":"-71.15611"
+    
+        },
+        {
+            "nameState":"San Cristóbal",
+            "lat":"7.76694",
+            "lon":"-72.225"
+    
+        },
+        {
+            "nameState":"Arica",
+            "lat":"-18.4746",
+            "lon":"-70.29792"
+    
+        },
+        {
+            "nameState":"Baruta",
+            "lat":"10.43424",
+            "lon":"-66.87558"
+    
+        },
+        {
+            "nameState":"Mucumpiz",
+            "lat":"8.41667",
+            "lon":"-71.13333"
+    
+        },
+        {
+            "nameState":"Maturín",
+            "lat":"9.74569",
+            "lon":"-63.18323"
+        },
+        {
+            "nameState":"Cabimas",
+            "lat":"10.39907",
+            "lon":"-71.45206"
+    
+        },
+        {
+            "nameState":"Guatire",
+            "lat":"10.474",
+            "lon":"-66.54241"
+    
+        },
+        {
+            "nameState":"Cúa",
+            "lat":"10.16245",
+            "lon":"-66.88248"
+    
+        },
+        {
+            "nameState":"Guarenas",
+            "lat":"10.47027",
+            "lon":"-66.61934"
+    
+        }
+    ]
+
+}

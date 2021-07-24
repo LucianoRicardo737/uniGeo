@@ -1,0 +1,152 @@
+{
+    "nameCountry":"Argentina",
+    "coi":"ARG",
+    "domain":".ar",
+    "capitalCountry":"Buenos Aires",
+    "populationCountry":"45.195.777",
+    "SurfaceCountry":"2.780.400 km2",
+    "religionCountry":"Mayoritariamente Cristianismo",
+    "coinCountry":"Pesos argentinos",
+"states":[
+        {
+            "nameState":"Misiones",
+            "lat":"-26.8753965086829",
+            "lon":"-54.6516966230371"
+            
+        },
+        {
+            "nameState":"San Luis",
+            "lat":"-33.7577257449137",
+            "lon":"-66.0281298195836"
+            
+    
+        },
+        {
+            "nameState":"San Juan",
+            "lat":"-30.8653679979618",
+            "lon":"-68.8894908486844"
+            
+    
+        },
+        {
+            "nameState":"Entre Ríos",
+            "lat":"-32.0588735436448",
+            "lon":"-59.2014475514635"
+        },
+        {
+            "nameState":"Santa Cruz",
+            "lat":"-48.8154851827063",
+            "lon":"-69.9557621671973"
+    
+        },
+        {
+            "nameState":"Río Negro",
+            "lat":"-40.4057957178801",
+            "lon":"-67.229329893694"
+    
+        },
+        {
+            "nameState":"Chubut",
+            "lat":"-43.7886233529878",
+            "lon":"-68.5267593943345"
+    
+        },
+        {
+            "nameState":"Córdoba",
+            "lat":"-32.142932663607",
+            "lon":"-63.8017532741662"
+    
+        },
+        {
+            "nameState":"Mendoza",
+            "lat":"-34.6298873058957",
+            "lon":"-68.5831228183798"
+    
+        },
+        {
+            "nameState":"La Rioja",
+            "lat":"-29.685776298315",
+            "lon":"-67.1817359694432"
+    
+        },
+        {
+            "nameState":"Catamarca",
+            "lat":"-27.3358332810217",
+            "lon":"-66.9476824299928"
+    
+        },
+        {
+            "nameState":"La Pampa",
+            "lat":"-37.1315537735949",
+            "lon":"-65.4466546606951"
+    
+        },
+        {
+            "nameState":"Santiago del Estero",
+            "lat":"-27.7824116550944",
+            "lon":"-63.2523866568588"
+    
+        },
+        {
+            "nameState":"Corrientes",
+            "lat":"-28.7743047046407",
+            "lon":"-57.8012191977913"
+    
+        },
+        {
+            "nameState":"Santa Fe",
+            "lat":"-30.7069271588117",
+            "lon":"-60.9498369430241"
+    
+        },
+        {
+            "nameState":"Tucumán",
+            "lat":"-26.9478001830786",
+            "lon":"-65.3647579441481"
+    
+        },
+        {
+            "nameState":"Neuquén",
+            "lat":"-38.6417575824599",
+            "lon":"-70.1185705180601"
+    
+        },
+        {
+            "nameState":"Salta",
+            "lat":"-24.2991344492002",
+            "lon":"-64.8144629600627"
+    
+        },
+        {
+            "nameState":"Chaco",
+            "lat":"-26.3864309061226",
+            "lon":"-60.7658307438603"
+    
+        },
+        {
+            "nameState":"Formosa",
+            "lat":"-24.894972594871",
+            "lon":"-59.9324405800872"
+    
+        },
+        {
+            "nameState":"Jujuy",
+            "lat":"-23.3200784211351",
+            "lon":"-65.7642522180337"
+    
+        },
+        {
+            "nameState":"Buenos Aires",
+            "lat":"-36.6769415180527",
+            "lon":"-60.5588319815719"
+    
+        },
+        {
+            "nameState":"Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+            "lat":"-82.52151781221",
+            "lon":"-50.7427486049785"
+    
+        }
+    ]
+
+}

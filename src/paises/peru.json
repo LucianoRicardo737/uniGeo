@@ -1,0 +1,133 @@
+{
+    "nameCountry":"Perú",
+    "coi":"PER",
+    "domain":".pe",
+    "capitalCountry":"Lima",
+    "populationCountry":"33.149.016",
+    "SurfaceCountry":"1.285.220 km2",
+    "religionCountry":"Mayoritariamente Cristianismo",
+    "coinCountry":"Soles",
+"states":[
+        {
+            "nameState":"Lima",
+            "lat":"-12.04318",
+            "lon":"-77.02824"
+            
+        },
+        {
+            "nameState":"Arequipa",
+            "lat":"-16.39889",
+            "lon":"-71.535"
+            
+    
+        },
+        {
+            "nameState":"Callao",
+            "lat":"-12.05659",
+            "lon":"-77.11814"
+            
+    
+        },
+        {
+            "nameState":"Trujillo",
+            "lat":"-8.11599",
+            "lon":"-79.02998"
+        },
+        {
+            "nameState":"Chiclayo",
+            "lat":"-6.77137",
+            "lon":"-79.84088"
+    
+        },
+        {
+            "nameState":"Iquitos",
+            "lat":"-3.74912",
+            "lon":"-73.25383"
+    
+        },
+        {
+            "nameState":"Huancayo",
+            "lat":"-12.06513",
+            "lon":"-75.20486"
+    
+        },
+        {
+            "nameState":"Piura",
+            "lat":"-5.19449",
+            "lon":"-80.63282"
+    
+        },
+        {
+            "nameState":"Chimbote",
+            "lat":"-9.08528",
+            "lon":"-78.57833"
+    
+        },
+        {
+            "nameState":"Pucallpa",
+            "lat":"-8.37915",
+            "lon":"-74.55387"
+    
+        },
+        {
+            "nameState":"Tacna",
+            "lat":"-18.01465",
+            "lon":"-70.25362"
+    
+        },
+        {
+            "nameState":"Ica",
+            "lat":"-14.06777",
+            "lon":"-75.72861"
+    
+        },
+        {
+            "nameState":"Juliaca",
+            "lat":"-15.5",
+            "lon":"-70.13333"
+    
+        },
+        {
+            "nameState":"Sullana",
+            "lat":"-4.90389",
+            "lon":"-80.68528"
+    
+        },
+        {
+            "nameState":"Cusco",
+            "lat":"-13.52264",
+            "lon":"-71.96734"
+    
+        },
+        {
+            "nameState":"Huánuco",
+            "lat":"-9.93062",
+            "lon":"-76.24223"
+    
+        },
+        {
+            "nameState":"Ayacucho",
+            "lat":"-13.15878",
+            "lon":"-74.22321"
+    
+        },
+        {
+            "nameState":"Cajamarca",
+            "lat":"-7.16378",
+            "lon":"-78.50027"
+        },
+        {
+            "nameState":"Huaraz",
+            "lat":"-9.52779",
+            "lon":"-77.52778"
+    
+        },
+        {
+            "nameState":"Santiago de Surco",
+            "lat":"-12.13588",
+            "lon":"-77.00742"
+    
+        }
+    ]
+
+}

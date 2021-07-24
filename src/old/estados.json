@@ -1,0 +1,2873 @@
+{
+    "states": [
+        
+        {
+            "id" : 1,
+            "id_country" : 16,
+            "name" : "Artibonite"
+        },
+        {
+            "id" : 2,
+            "id_country" : 16,
+            "name" : "Centro"
+        },
+        {
+            "id" : 3,
+            "id_country" : 16,
+            "name" : "Grand'Anse"
+        },
+        {
+            "id" : 4,
+            "id_country" : 16,
+            "name" : "Nippes"
+        },
+        {
+            "id" : 5,
+            "id_country" : 16,
+            "name" : "Norte"
+        },
+        {
+            "id" : 22,
+            "id_country" : 16,
+            "name" : "Nordeste"
+        },
+        {
+            "id" : 23,
+            "id_country" : 16,
+            "name" : "Noroeste"
+        },
+        {
+            "id" : 24,
+            "id_country" : 16,
+            "name" : "Oeste"
+        },
+        {
+            "id" : 25,
+            "id_country" : 16,
+            "name" : "Sur"
+        },
+        {
+            "id" : 25,
+            "id_country" : 16,
+            "name" : "Sudeste"
+        },
+        {
+            "id" : 206,
+            "id_country" : 51,
+            "name" : "Ahuachapán"
+        },
+        {
+            "id" : 222206,
+            "id_country" : 51,
+            "name" : "Cabañas"
+        },
+        {
+            "id" : 207,
+            "id_country" : 51,
+            "name" : "Cuscatlán"
+        },
+        {
+            "id" : 3207,
+            "id_country" : 51,
+            "name" : "Chalatenango"
+        },
+        {
+            "id" : 208,
+            "id_country" : 51,
+            "name" : "La Libertad"
+        },
+        {
+            "id" : 209,
+            "id_country" : 51,
+            "name" : "La Paz"
+        },
+        {
+            "id" : 210,
+            "id_country" : 51,
+            "name" : "La Unión"
+        },
+        {
+            "id" : 3210,
+            "id_country" : 51,
+            "name" : "Morazán"
+        },
+        {
+            "id" : 211,
+            "id_country" : 51,
+            "name" : "San Miguel"
+        },
+        {
+            "id" : 212,
+            "id_country" : 51,
+            "name" : "San Salvador"
+        },
+        {
+            "id" : 3212,
+            "id_country" : 51,
+            "name" : "San Vicente"
+        },
+        {
+            "id" : 213,
+            "id_country" : 51,
+            "name" : "Santa Ana"
+        },
+        {
+            "id" : 214,
+            "id_country" : 51,
+            "name" : "Sonsonate"
+        },
+        {
+            "id" : 3214,
+            "id_country" : 51,
+            "name" : "Usulután"
+        },
+        {
+            "id" : 11200,
+            "id_country" : 54,
+            "name" : "Brokopondo"
+        },
+        {
+            "id" : 11201,
+            "id_country" : 54,
+            "name" : "Commewijne"
+        },
+        {
+            "id" : 11202,
+            "id_country" : 54,
+            "name" : "Coronie"
+        },
+        {
+            "id" : 11203,
+            "id_country" : 54,
+            "name" : "Marowijne"
+        },
+        {
+            "id" : 11204,
+            "id_country" : 54,
+            "name" : "Nickerie"
+        },
+        {
+            "id" : 11205,
+            "id_country" : 54,
+            "name" : "Para"
+        },
+        {
+            "id" : 11206,
+            "id_country" : 54,
+            "name" : "Paramaribo"
+        },
+        {
+            "id" : 11207,
+            "id_country" : 54,
+            "name" : "Saramacca"
+        },
+        {
+            "id" : 11208,
+            "id_country" : 54,
+            "name" : "Wanica"
+        },
+        {
+            "id" : 11209,
+            "id_country" : 54,
+            "name" : "Sipaliwini"
+        },
+       
+        {
+            "id" : 387,
+            "id_country" : 138,
+            "name" : "Santo Domingo"
+        },
+       
+        {
+            "id" : 686,
+            "id_country" : 147,
+            "name" : "Barbuda"
+        },
+       
+        {
+            "id" : 21584,
+            "id_country" : 219,
+            "name" : "Christ Church Nichola Town"
+        },
+        {
+            "id" : 31584,
+            "id_country" : 219,
+            "name" : "Saint Anne Sandy Point"
+        },
+        {
+            "id" : 41584,
+            "id_country" : 219,
+            "name" : "Saint George Basseterre"
+        },
+        {
+            "id" : 51584,
+            "id_country" : 219,
+            "name" : "Saint John Capisterre"
+        },
+        {
+            "id" : 61584,
+            "id_country" : 219,
+            "name" : "Saint Mary Cayon"
+        },
+        {
+            "id" : 71584,
+            "id_country" : 219,
+            "name" : "Saint Paul Capisterre "
+        },
+        {
+            "id" : 81584,
+            "id_country" : 219,
+            "name" : "Saint Peter Basseterre "
+        },
+        {
+            "id" : 91584,
+            "id_country" : 219,
+            "name" : "Saint Thomas Middle Island "
+        },
+        {
+            "id" : 111584,
+            "id_country" : 219,
+            "name" : "Trinity Palmetto Point "
+        },
+        {
+            "id" : 221584,
+            "id_country" : 219,
+            "name" : "Saint George Gingerland "
+        },
+        {
+            "id" : 331584,
+            "id_country" : 219,
+            "name" : "Saint James Windward "
+        },
+        {
+            "id" : 441584,
+            "id_country" : 219,
+            "name" : "Saint John Figtree "
+        },
+        {
+            "id" : 551584,
+            "id_country" : 219,
+            "name" : "Saint Paul Charlestown "
+        },
+        {
+            "id" : 661584,
+            "id_country" : 219,
+            "name" : "Saint Thomas Lowland "
+        },
+
+        {
+            "id" : 12001,
+            "id_country" : 220,
+            "name" : "Anse La Raye"
+        },
+        {
+            "id" : 12002,
+            "id_country" : 220,
+            "name" : "Castries"
+        },
+        {
+            "id" : 12003,
+            "id_country" : 220,
+            "name" : "Choiseul"
+        },
+        {
+            "id" : 12004,
+            "id_country" : 220,
+            "name" : "Dauphin"
+        },
+        {
+            "id" : 12005,
+            "id_country" : 220,
+            "name" : "Dennery"
+        },
+        {
+            "id" : 12006,
+            "id_country" : 220,
+            "name" : "Gros Islet"
+        },
+        {
+            "id" : 12007,
+            "id_country" : 220,
+            "name" : "Laborie"
+        },
+        {
+            "id" : 12008,
+            "id_country" : 220,
+            "name" : "Micoud"
+        },
+        {
+            "id" : 12009,
+            "id_country" : 220,
+            "name" : "Praslin"
+        },
+        {
+            "id" : 12010,
+            "id_country" : 220,
+            "name" : "Soufriere"
+        },
+        {
+            "id" : 12011,
+            "id_country" : 220,
+            "name" : "Vieux Fort"
+        },
+        {
+            "id" : 1587,
+            "id_country" : 222,
+            "name" : "Charlotte"
+        },
+        {
+            "id" : 5587,
+            "id_country" : 222,
+            "name" : "Saint Andrew"
+        },
+        {
+            "id" : 5667,
+            "id_country" : 222,
+            "name" : "Saint David"
+        },
+        {
+            "id" : 4687,
+            "id_country" : 222,
+            "name" : "Saint George"
+        },
+        {
+            "id" : 7787,
+            "id_country" : 222,
+            "name" : "Saint Patrick"
+        },
+        {
+            "id" : 18587,
+            "id_country" : 222,
+            "name" : "Grenadines"
+        },
+        {
+            "id" : 21593,
+            "id_country" : 237,
+            "name" : "Arima"
+        },
+        {
+            "id" : 21594,
+            "id_country" : 237,
+            "name" : "Chaguanas"
+        },
+        {
+            "id" : 21595,
+            "id_country" : 237,
+            "name" : "Couva-Tabaquite-Talparo"
+        },
+        {
+            "id" : 21596,
+            "id_country" : 237,
+            "name" : "Diego Martin"
+        },
+        {
+            "id" : 21597,
+            "id_country" : 237,
+            "name" : "Penal-Debe"
+        },
+        {
+            "id" : 21598,
+            "id_country" : 237,
+            "name" : "Point Fortin"
+        },
+        {
+            "id" : 21599,
+            "id_country" : 237,
+            "name" : "Puerto España"
+        },
+        {
+            "id" : 21600,
+            "id_country" : 237,
+            "name" : "Princes Town"
+        },
+        {
+            "id" : 21601,
+            "id_country" : 237,
+            "name" : "Rio Claro-Mayaro"
+        },
+        {
+            "id" : 21602,
+            "id_country" : 237,
+            "name" : "San Fernando"
+        },
+        {
+            "id" : 21603,
+            "id_country" : 237,
+            "name" : "San Juan-Laventille"
+        },
+        {
+            "id" : 21604,
+            "id_country" : 237,
+            "name" : "Sangre Grande"
+        },
+        {
+            "id" : 21605,
+            "id_country" : 237,
+            "name" : "Siparia"
+        },
+        {
+            "id" : 21606,
+            "id_country" : 237,
+            "name" : "Tobago"
+        },
+        {
+            "id" : 21607,
+            "id_country" : 237,
+            "name" : "Tunapuna-Piarco"
+        },
+
+        {
+            "id" : 1596,
+            "id_country" : 89,
+            "name" : "Amazonas"
+        },
+        {
+            "id" : 1596,
+            "id_country" : 89,
+            "name" : "Cañete"
+        },
+        {
+            "id" : 1597,
+            "id_country" : 89,
+            "name" : "Ancash"
+        },
+        {
+            "id" : 1598,
+            "id_country" : 89,
+            "name" : "Apurímac"
+        },
+        {
+            "id" : 1599,
+            "id_country" : 89,
+            "name" : "Arequipa"
+        },
+        {
+            "id" : 1600,
+            "id_country" : 89,
+            "name" : "Ayacucho"
+        },
+        {
+            "id" : 1601,
+            "id_country" : 89,
+            "name" : "Cajamarca"
+        },
+        {
+            "id" : 1602,
+            "id_country" : 89,
+            "name" : "Callao"
+        },
+        {
+            "id" : 1603,
+            "id_country" : 89,
+            "name" : "Cusco"
+        },
+        {
+            "id" : 1604,
+            "id_country" : 89,
+            "name" : "Huancavelica"
+        },
+        {
+            "id" : 1605,
+            "id_country" : 89,
+            "name" : "Huánuco"
+        },
+        {
+            "id" : 1606,
+            "id_country" : 89,
+            "name" : "Ica"
+        },
+        {
+            "id" : 1607,
+            "id_country" : 89,
+            "name" : "Junín"
+        },
+        {
+            "id" : 1608,
+            "id_country" : 89,
+            "name" : "La Libertad"
+        },
+        {
+            "id" : 1609,
+            "id_country" : 89,
+            "name" : "Lambayeque"
+        },
+        {
+            "id" : 1610,
+            "id_country" : 89,
+            "name" : "Lima"
+        },
+        {
+            "id" : 1611,
+            "id_country" : 89,
+            "name" : "Loreto"
+        },
+        {
+            "id" : 1612,
+            "id_country" : 89,
+            "name" : "Madre de Dios"
+        },
+        {
+            "id" : 1613,
+            "id_country" : 89,
+            "name" : "Moquegua"
+        },
+        {
+            "id" : 1614,
+            "id_country" : 89,
+            "name" : "Pasco"
+        },
+        {
+            "id" : 1615,
+            "id_country" : 89,
+            "name" : "Piura"
+        },
+        {
+            "id" : 1616,
+            "id_country" : 89,
+            "name" : "Puno"
+        },
+        {
+            "id" : 1617,
+            "id_country" : 89,
+            "name" : "San Martín"
+        },
+        {
+            "id" : 1618,
+            "id_country" : 89,
+            "name" : "Tacna"
+        },
+        {
+            "id" : 1619,
+            "id_country" : 89,
+            "name" : "Tumbes"
+        },
+        {
+            "id" : 1620,
+            "id_country" : 89,
+            "name" : "Ucayali"
+        },
+        {
+            "id" : 1622,
+            "id_country" : 110,
+            "name" : "Alto Paraná"
+        },
+        {
+            "id" : 1623,
+            "id_country" : 110,
+            "name" : "Amambay"
+        },
+        {
+            "id" : 1624,
+            "id_country" : 110,
+            "name" : "Boquerón"
+        },
+        {
+            "id" : 1625,
+            "id_country" : 110,
+            "name" : "Caaguazú"
+        },
+        {
+            "id" : 1626,
+            "id_country" : 110,
+            "name" : "Caazapá"
+        },
+        {
+            "id" : 1627,
+            "id_country" : 110,
+            "name" : "Central"
+        },
+        {
+            "id" : 1628,
+            "id_country" : 110,
+            "name" : "Concepción"
+        },
+        {
+            "id" : 1629,
+            "id_country" : 110,
+            "name" : "Cordillera"
+        },
+        {
+            "id" : 1630,
+            "id_country" : 110,
+            "name" : "Guairá"
+        },
+        {
+            "id" : 1631,
+            "id_country" : 110,
+            "name" : "Itapúa"
+        },
+        {
+            "id" : 1632,
+            "id_country" : 110,
+            "name" : "Misiones"
+        },
+        {
+            "id" : 1633,
+            "id_country" : 110,
+            "name" : "Neembucú"
+        },
+        {
+            "id" : 1634,
+            "id_country" : 110,
+            "name" : "Paraguarí"
+        },
+        {
+            "id" : 1635,
+            "id_country" : 110,
+            "name" : "Presidente Hayes"
+        },
+        {
+            "id" : 1636,
+            "id_country" : 110,
+            "name" : "San Pedro"
+        },
+        {
+            "id" : 1637,
+            "id_country" : 110,
+            "name" : "Alto Paraguay"
+        },
+        {
+            "id" : 1638,
+            "id_country" : 110,
+            "name" : "Canindeyú"
+        },
+     
+      
+        {
+            "id" : 7206,
+            "id_country" : 110,
+            "name" : "Asunción"
+        },
+        {
+            "id" : 1642,
+            "id_country" : 111,
+            "name" : "Artigas"
+        },
+        {
+            "id" : 1643,
+            "id_country" : 111,
+            "name" : "Canelones"
+        },
+        {
+            "id" : 1644,
+            "id_country" : 111,
+            "name" : "Cerro Largo"
+        },
+        {
+            "id" : 1645,
+            "id_country" : 111,
+            "name" : "Colonia"
+        },
+        {
+            "id" : 1646,
+            "id_country" : 111,
+            "name" : "Durazno"
+        },
+        {
+            "id" : 1647,
+            "id_country" : 111,
+            "name" : "Flores"
+        },
+        {
+            "id" : 1648,
+            "id_country" : 111,
+            "name" : "Florida"
+        },
+        {
+            "id" : 1649,
+            "id_country" : 111,
+            "name" : "Lavalleja"
+        },
+        {
+            "id" : 1650,
+            "id_country" : 111,
+            "name" : "Maldonado"
+        },
+        {
+            "id" : 1651,
+            "id_country" : 111,
+            "name" : "Montevideo"
+        },
+        {
+            "id" : 1652,
+            "id_country" : 111,
+            "name" : "Paysandú"
+        },
+        {
+            "id" : 1653,
+            "id_country" : 111,
+            "name" : "Río Negro"
+        },
+        {
+            "id" : 1654,
+            "id_country" : 111,
+            "name" : "Rivera"
+        },
+        {
+            "id" : 1655,
+            "id_country" : 111,
+            "name" : "Rocha"
+        },
+        {
+            "id" : 1656,
+            "id_country" : 111,
+            "name" : "Salto"
+        },
+        {
+            "id" : 1657,
+            "id_country" : 111,
+            "name" : "San José"
+        },
+        {
+            "id" : 1658,
+            "id_country" : 111,
+            "name" : "Soriano"
+        },
+        {
+            "id" : 1659,
+            "id_country" : 111,
+            "name" : "Tacuarembó"
+        },
+        {
+            "id" : 1660,
+            "id_country" : 111,
+            "name" : "Treinta y Tres"
+        },
+        {
+            "id" : 1662,
+            "id_country" : 81,
+            "name" : "Valparaíso"
+        },
+        {
+            "id" : 1663,
+            "id_country" : 81,
+            "name" : "Aysén del General Carlos Ibánez del Campo"
+        },
+        {
+            "id" : 1664,
+            "id_country" : 81,
+            "name" : "Antofagasta"
+        },
+        {
+            "id" : 1665,
+            "id_country" : 81,
+            "name" : "Araucanía"
+        },
+        {
+            "id" : 1666,
+            "id_country" : 81,
+            "name" : "Atacama"
+        },
+        {
+            "id" : 1667,
+            "id_country" : 81,
+            "name" : "Bío-Bío"
+        },
+        {
+            "id" : 1668,
+            "id_country" : 81,
+            "name" : "Coquimbo"
+        },
+        {
+            "id" : 1669,
+            "id_country" : 81,
+            "name" : "Libertador General Bernardo OHiggins"
+        },
+        {
+            "id" : 1670,
+            "id_country" : 81,
+            "name" : "Los Lagos"
+        },
+        {
+            "id" : 1671,
+            "id_country" : 81,
+            "name" : "Magallanes y de la Antártica Chilena"
+        },
+        {
+            "id" : 1672,
+            "id_country" : 81,
+            "name" : "Maule"
+        },
+        {
+            "id" : 1673,
+            "id_country" : 81,
+            "name" : "Region Metropolitana"
+        },
+        {
+            "id" : 1674,
+            "id_country" : 81,
+            "name" : "Tarapacá"
+        },
+        {
+            "id" : 1676,
+            "id_country" : 185,
+            "name" : "Alta Verapaz"
+        },
+        {
+            "id" : 1677,
+            "id_country" : 185,
+            "name" : "Baja Verapaz"
+        },
+        {
+            "id" : 1678,
+            "id_country" : 185,
+            "name" : "Chimaltenango"
+        },
+        {
+            "id" : 1679,
+            "id_country" : 185,
+            "name" : "Chiquimula"
+        },
+        {
+            "id" : 1680,
+            "id_country" : 185,
+            "name" : "El Progreso"
+        },
+        {
+            "id" : 1681,
+            "id_country" : 185,
+            "name" : "Escuintla"
+        },
+        {
+            "id" : 1682,
+            "id_country" : 185,
+            "name" : "Guatemala"
+        },
+        {
+            "id" : 1683,
+            "id_country" : 185,
+            "name" : "Huehuetenango"
+        },
+        {
+            "id" : 1684,
+            "id_country" : 185,
+            "name" : "Izabal"
+        },
+        {
+            "id" : 1685,
+            "id_country" : 185,
+            "name" : "Jalapa"
+        },
+        {
+            "id" : 1686,
+            "id_country" : 185,
+            "name" : "Jutiapa"
+        },
+        {
+            "id" : 1687,
+            "id_country" : 185,
+            "name" : "Petén"
+        },
+        {
+            "id" : 1688,
+            "id_country" : 185,
+            "name" : "Quetzaltenango"
+        },
+        {
+            "id" : 1689,
+            "id_country" : 185,
+            "name" : "Quiché"
+        },
+        {
+            "id" : 1690,
+            "id_country" : 185,
+            "name" : "Retalhuleu"
+        },
+        {
+            "id" : 1691,
+            "id_country" : 185,
+            "name" : "Sacatepéquez"
+        },
+        {
+            "id" : 1692,
+            "id_country" : 185,
+            "name" : "San Marcos"
+        },
+        {
+            "id" : 1693,
+            "id_country" : 185,
+            "name" : "Santa Rosa"
+        },
+        {
+            "id" : 1694,
+            "id_country" : 185,
+            "name" : "Sololá"
+        },
+        {
+            "id" : 1695,
+            "id_country" : 185,
+            "name" : "Suchitepéquez"
+        },
+        {
+            "id" : 1696,
+            "id_country" : 185,
+            "name" : "Totonicapán"
+        },
+        {
+            "id" : 1697,
+            "id_country" : 185,
+            "name" : "Zacapa"
+        },
+        {
+            "id" : 1699,
+            "id_country" : 82,
+            "name" : "Amazonas"
+        },
+        {
+            "id" : 1700,
+            "id_country" : 82,
+            "name" : "Antioquia"
+        },
+        {
+            "id" : 1701,
+            "id_country" : 82,
+            "name" : "Arauca"
+        },
+        {
+            "id" : 1702,
+            "id_country" : 82,
+            "name" : "Atlántico"
+        },
+        {
+            "id" : 1703,
+            "id_country" : 82,
+            "name" : "Caquetá"
+        },
+        {
+            "id" : 1704,
+            "id_country" : 82,
+            "name" : "Cauca"
+        },
+        {
+            "id" : 1705,
+            "id_country" : 82,
+            "name" : "Cesar"
+        },
+        {
+            "id" : 1706,
+            "id_country" : 82,
+            "name" : "Chocó"
+        },
+        {
+            "id" : 1707,
+            "id_country" : 82,
+            "name" : "Córdoba"
+        },
+        {
+            "id" : 1708,
+            "id_country" : 82,
+            "name" : "Guaviare"
+        },
+        {
+            "id" : 1709,
+            "id_country" : 82,
+            "name" : "Guainía"
+        },
+        {
+            "id" : 1710,
+            "id_country" : 82,
+            "name" : "Huila"
+        },
+        {
+            "id" : 1711,
+            "id_country" : 82,
+            "name" : "La Guajira"
+        },
+        {
+            "id" : 1712,
+            "id_country" : 82,
+            "name" : "Meta"
+        },
+        {
+            "id" : 1713,
+            "id_country" : 82,
+            "name" : "Nariño"
+        },
+        {
+            "id" : 1714,
+            "id_country" : 82,
+            "name" : "Norte de Santander"
+        },
+        {
+            "id" : 1715,
+            "id_country" : 82,
+            "name" : "Putumayo"
+        },
+        {
+            "id" : 1716,
+            "id_country" : 82,
+            "name" : "Quindío"
+        },
+        {
+            "id" : 1717,
+            "id_country" : 82,
+            "name" : "Risaralda"
+        },
+        {
+            "id" : 1718,
+            "id_country" : 82,
+            "name" : "Archipiélago de San Andrés"
+        },
+        {
+            "id" : 1719,
+            "id_country" : 82,
+            "name" : "Santander"
+        },
+        {
+            "id" : 1720,
+            "id_country" : 82,
+            "name" : "Sucre"
+        },
+        {
+            "id" : 1721,
+            "id_country" : 82,
+            "name" : "Tolima"
+        },
+        {
+            "id" : 1722,
+            "id_country" : 82,
+            "name" : "Valle del Cauca"
+        },
+        {
+            "id" : 1723,
+            "id_country" : 82,
+            "name" : "Vaupés"
+        },
+        {
+            "id" : 1724,
+            "id_country" : 82,
+            "name" : "Vichada"
+        },
+        {
+            "id" : 1725,
+            "id_country" : 82,
+            "name" : "Casanare"
+        },
+        {
+            "id" : 1726,
+            "id_country" : 82,
+            "name" : "Cundinamarca"
+        },
+        {
+            "id" : 1727,
+            "id_country" : 82,
+            "name" : "Distrito Capital"
+        },
+        {
+            "id" : 1730,
+            "id_country" : 82,
+            "name" : "Caldas"
+        },
+        {
+            "id" : 1731,
+            "id_country" : 82,
+            "name" : "Magdalena"
+        },
+        {
+            "id" : 2202,
+            "id_country" : 82,
+            "name" : "Bolivar"
+        },
+        {
+            "id" : 2203,
+            "id_country" : 82,
+            "name" : "Boyacá"
+        },
+        {
+            "id" : 1733,
+            "id_country" : 42,
+            "name" : "Aguascalientes"
+        },
+        {
+            "id" : 1734,
+            "id_country" : 42,
+            "name" : "Baja California"
+        },
+        {
+            "id" : 1735,
+            "id_country" : 42,
+            "name" : "Baja California Sur"
+        },
+        {
+            "id" : 1736,
+            "id_country" : 42,
+            "name" : "Campeche"
+        },
+        {
+            "id" : 1737,
+            "id_country" : 42,
+            "name" : "Chiapas"
+        },
+        {
+            "id" : 1738,
+            "id_country" : 42,
+            "name" : "Chihuahua"
+        },
+        {
+            "id" : 1739,
+            "id_country" : 42,
+            "name" : "Coahuila de Zaragoza"
+        },
+        {
+            "id" : 1740,
+            "id_country" : 42,
+            "name" : "Colima"
+        },
+        {
+            "id" : 1741,
+            "id_country" : 42,
+            "name" : "Distrito Federal"
+        },
+        {
+            "id" : 1742,
+            "id_country" : 42,
+            "name" : "Durango"
+        },
+        {
+            "id" : 1743,
+            "id_country" : 42,
+            "name" : "Guanajuato"
+        },
+        {
+            "id" : 1744,
+            "id_country" : 42,
+            "name" : "Guerrero"
+        },
+        {
+            "id" : 1745,
+            "id_country" : 42,
+            "name" : "Hidalgo"
+        },
+        {
+            "id" : 1746,
+            "id_country" : 42,
+            "name" : "Jalisco"
+        },
+        {
+            "id" : 1747,
+            "id_country" : 42,
+            "name" : "México"
+        },
+        {
+            "id" : 1748,
+            "id_country" : 42,
+            "name" : "Michoacán de Ocampo"
+        },
+        {
+            "id" : 1749,
+            "id_country" : 42,
+            "name" : "Morelos"
+        },
+        {
+            "id" : 1750,
+            "id_country" : 42,
+            "name" : "Nayarit"
+        },
+        {
+            "id" : 1751,
+            "id_country" : 42,
+            "name" : "Nuevo León"
+        },
+        {
+            "id" : 1752,
+            "id_country" : 42,
+            "name" : "Oaxaca"
+        },
+        {
+            "id" : 1753,
+            "id_country" : 42,
+            "name" : "Puebla"
+        },
+        {
+            "id" : 1754,
+            "id_country" : 42,
+            "name" : "Querétaro"
+        },
+        {
+            "id" : 1755,
+            "id_country" : 42,
+            "name" : "Quintana Roo"
+        },
+        {
+            "id" : 1756,
+            "id_country" : 42,
+            "name" : "San Luis Potosí"
+        },
+        {
+            "id" : 1757,
+            "id_country" : 42,
+            "name" : "Sinaloa"
+        },
+        {
+            "id" : 1758,
+            "id_country" : 42,
+            "name" : "Sonora"
+        },
+        {
+            "id" : 1759,
+            "id_country" : 42,
+            "name" : "Tabasco"
+        },
+        {
+            "id" : 1760,
+            "id_country" : 42,
+            "name" : "Tamaulipas"
+        },
+        {
+            "id" : 1761,
+            "id_country" : 42,
+            "name" : "Tlaxcala"
+        },
+        {
+            "id" : 1762,
+            "id_country" : 42,
+            "name" : "Veracruz de Ignacio de la Llave"
+        },
+        {
+            "id" : 1763,
+            "id_country" : 42,
+            "name" : "Yucatán"
+        },
+        {
+            "id" : 1764,
+            "id_country" : 42,
+            "name" : "Zacatecas"
+        },
+        {
+            "id" : 1766,
+            "id_country" : 124,
+            "name" : "Bocas del Toro"
+        },
+        {
+            "id" : 1766,
+            "id_country" : 124,
+            "name" : "Panamá"
+        },
+        {
+            "id" : 1767,
+            "id_country" : 124,
+            "name" : "Chiriquí"
+        },
+        {
+            "id" : 1768,
+            "id_country" : 124,
+            "name" : "Coclé"
+        },
+        {
+            "id" : 1769,
+            "id_country" : 124,
+            "name" : "Colón"
+        },
+        {
+            "id" : 1770,
+            "id_country" : 124,
+            "name" : "Darién"
+        },
+        {
+            "id" : 1771,
+            "id_country" : 124,
+            "name" : "Herrera"
+        },
+        {
+            "id" : 1772,
+            "id_country" : 124,
+            "name" : "Los Santos"
+        },
+        {
+            "id" : 1773,
+            "id_country" : 124,
+            "name" : "Panamá"
+        },
+        {
+            "id" : 1775,
+            "id_country" : 124,
+            "name" : "Veraguas"
+        },
+        {
+            "id" : 5775,
+            "id_country" : 124,
+            "name" : "Emberá-Wounaan"
+        },
+        {
+            "id" : 5785,
+            "id_country" : 124,
+            "name" : "Guna Yala"
+        },
+        {
+            "id" : 6785,
+            "id_country" : 124,
+            "name" : "Ngäbe-Buglé"
+        },
+        {
+            "id" : 9785,
+            "id_country" : 124,
+            "name" : "Panamá Oeste"
+        },
+        {
+            "id" : 1777,
+            "id_country" : 123,
+            "name" : "Beni"
+        },
+        {
+            "id" : 1778,
+            "id_country" : 123,
+            "name" : "Chuquisaca"
+        },
+        {
+            "id" : 1779,
+            "id_country" : 123,
+            "name" : "Cochabamba"
+        },
+        {
+            "id" : 1780,
+            "id_country" : 123,
+            "name" : "La Paz"
+        },
+        {
+            "id" : 1781,
+            "id_country" : 123,
+            "name" : "Oruro"
+        },
+        {
+            "id" : 1782,
+            "id_country" : 123,
+            "name" : "Pando"
+        },
+        {
+            "id" : 1783,
+            "id_country" : 123,
+            "name" : "Potosí"
+        },
+        {
+            "id" : 1784,
+            "id_country" : 123,
+            "name" : "Santa Cruz"
+        },
+        {
+            "id" : 1785,
+            "id_country" : 123,
+            "name" : "Tarija"
+        },
+        {
+            "id" : 1787,
+            "id_country" : 36,
+            "name" : "Alajuela"
+        },
+        {
+            "id" : 1788,
+            "id_country" : 36,
+            "name" : "Cartago"
+        },
+        {
+            "id" : 1789,
+            "id_country" : 36,
+            "name" : "Guanacaste"
+        },
+        {
+            "id" : 1790,
+            "id_country" : 36,
+            "name" : "Heredia"
+        },
+        {
+            "id" : 1791,
+            "id_country" : 36,
+            "name" : "Limón"
+        },
+        {
+            "id" : 1792,
+            "id_country" : 36,
+            "name" : "Puntarenas"
+        },
+        {
+            "id" : 1793,
+            "id_country" : 36,
+            "name" : "San José"
+        },
+        {
+            "id" : 1795,
+            "id_country" : 103,
+            "name" : "Galápagos"
+        },
+        {
+            "id" : 1796,
+            "id_country" : 103,
+            "name" : "Azuay"
+        },
+        {
+            "id" : 1797,
+            "id_country" : 103,
+            "name" : "Bolívar"
+        },
+        {
+            "id" : 1798,
+            "id_country" : 103,
+            "name" : "Cañar"
+        },
+        {
+            "id" : 1799,
+            "id_country" : 103,
+            "name" : "Carchi"
+        },
+        {
+            "id" : 1800,
+            "id_country" : 103,
+            "name" : "Chimborazo"
+        },
+        {
+            "id" : 1801,
+            "id_country" : 103,
+            "name" : "Cotopaxi"
+        },
+        {
+            "id" : 1802,
+            "id_country" : 103,
+            "name" : "El Oro"
+        },
+        {
+            "id" : 1803,
+            "id_country" : 103,
+            "name" : "Esmeraldas"
+        },
+        {
+            "id" : 1804,
+            "id_country" : 103,
+            "name" : "Guayas"
+        },
+        {
+            "id" : 1805,
+            "id_country" : 103,
+            "name" : "Imbabura"
+        },
+        {
+            "id" : 1806,
+            "id_country" : 103,
+            "name" : "Loja"
+        },
+        
+        {
+            "id" : 191807,
+            "id_country" : 103,
+            "name" : "Santo Domingo de los Tsáchilas"
+        },
+        {
+            "id" : 1807,
+            "id_country" : 103,
+            "name" : "Los Ríos"
+        },
+        {
+            "id" : 1808,
+            "id_country" : 103,
+            "name" : "Manabí"
+        },
+        {
+            "id" : 1809,
+            "id_country" : 103,
+            "name" : "Morona Santiago"
+        },
+        {
+            "id" : 1810,
+            "id_country" : 103,
+            "name" : "Pastaza"
+        },
+        {
+            "id" : 1811,
+            "id_country" : 103,
+            "name" : "Pichincha"
+        },
+        {
+            "id" : 1812,
+            "id_country" : 103,
+            "name" : "Tungurahua"
+        },
+        {
+            "id" : 1813,
+            "id_country" : 103,
+            "name" : "Zamora Chinchipe"
+        },
+        {
+            "id" : 1814,
+            "id_country" : 103,
+            "name" : "Sucumbíos"
+        },
+        {
+            "id" : 1815,
+            "id_country" : 103,
+            "name" : "Napo"
+        },
+        {
+            "id" : 1816,
+            "id_country" : 103,
+            "name" : "Orellana"
+        },
+        {
+            "id" : 18916,
+            "id_country" : 103,
+            "name" : "Santa Elena"
+        },
+        {
+            "id" : 1818,
+            "id_country" : 5,
+            "name" : "Buenos Aires"
+        },
+        {
+            "id" : 1819,
+            "id_country" : 5,
+            "name" : "Catamarca"
+        },
+        {
+            "id" : 1820,
+            "id_country" : 5,
+            "name" : "Chaco"
+        },
+        {
+            "id" : 1821,
+            "id_country" : 5,
+            "name" : "Chubut"
+        },
+        {
+            "id" : 1822,
+            "id_country" : 5,
+            "name" : "Córdoba"
+        },
+        {
+            "id" : 1823,
+            "id_country" : 5,
+            "name" : "Corrientes"
+        },
+        {
+            "id" : 1824,
+            "id_country" : 5,
+            "name" : "Distrito Federal"
+        },
+        {
+            "id" : 1825,
+            "id_country" : 5,
+            "name" : "Entre Ríos"
+        },
+        {
+            "id" : 1826,
+            "id_country" : 5,
+            "name" : "Formosa"
+        },
+        {
+            "id" : 1827,
+            "id_country" : 5,
+            "name" : "Jujuy"
+        },
+        {
+            "id" : 1828,
+            "id_country" : 5,
+            "name" : "La Pampa"
+        },
+        {
+            "id" : 1829,
+            "id_country" : 5,
+            "name" : "La Rioja"
+        },
+        {
+            "id" : 1830,
+            "id_country" : 5,
+            "name" : "Mendoza"
+        },
+        {
+            "id" : 1831,
+            "id_country" : 5,
+            "name" : "Misiones"
+        },
+        {
+            "id" : 1832,
+            "id_country" : 5,
+            "name" : "Neuquén"
+        },
+        {
+            "id" : 1833,
+            "id_country" : 5,
+            "name" : "Río Negro"
+        },
+        {
+            "id" : 1834,
+            "id_country" : 5,
+            "name" : "Salta"
+        },
+        {
+            "id" : 1835,
+            "id_country" : 5,
+            "name" : "San Juan"
+        },
+        {
+            "id" : 1836,
+            "id_country" : 5,
+            "name" : "San Luis"
+        },
+        {
+            "id" : 1837,
+            "id_country" : 5,
+            "name" : "Santa Cruz"
+        },
+        {
+            "id" : 1838,
+            "id_country" : 5,
+            "name" : "Santa Fe"
+        },
+        {
+            "id" : 1839,
+            "id_country" : 5,
+            "name" : "Santiago del Estero"
+        },
+        {
+            "id" : 1840,
+            "id_country" : 5,
+            "name" : "Tierra del Fuego"
+        },
+        {
+            "id" : 1841,
+            "id_country" : 5,
+            "name" : "Tucumán"
+        },
+        {
+            "id" : 1843,
+            "id_country" : 95,
+            "name" : "Amazonas"
+        },
+        {
+            "id" : 18443,
+            "id_country" : 95,
+            "name" : "La Guaira"
+        },
+        {
+            "id" : 1844,
+            "id_country" : 95,
+            "name" : "Anzoategui"
+        },
+        {
+            "id" : 1845,
+            "id_country" : 95,
+            "name" : "Apure"
+        },
+        {
+            "id" : 1846,
+            "id_country" : 95,
+            "name" : "Aragua"
+        },
+        {
+            "id" : 1847,
+            "id_country" : 95,
+            "name" : "Barinas"
+        },
+        {
+            "id" : 1848,
+            "id_country" : 95,
+            "name" : "Bolívar"
+        },
+        {
+            "id" : 1849,
+            "id_country" : 95,
+            "name" : "Carabobo"
+        },
+        {
+            "id" : 1850,
+            "id_country" : 95,
+            "name" : "Cojedes"
+        },
+        {
+            "id" : 1851,
+            "id_country" : 95,
+            "name" : "Delta Amacuro"
+        },
+        {
+            "id" : 1852,
+            "id_country" : 95,
+            "name" : "Falcón"
+        },
+        {
+            "id" : 1853,
+            "id_country" : 95,
+            "name" : "Guárico"
+        },
+        {
+            "id" : 1854,
+            "id_country" : 95,
+            "name" : "Lara"
+        },
+        {
+            "id" : 1855,
+            "id_country" : 95,
+            "name" : "Mérida"
+        },
+        {
+            "id" : 1856,
+            "id_country" : 95,
+            "name" : "Miranda"
+        },
+        {
+            "id" : 1857,
+            "id_country" : 95,
+            "name" : "Monagas"
+        },
+        {
+            "id" : 1858,
+            "id_country" : 95,
+            "name" : "Nueva Esparta"
+        },
+        {
+            "id" : 1859,
+            "id_country" : 95,
+            "name" : "Portuguesa"
+        },
+        {
+            "id" : 1860,
+            "id_country" : 95,
+            "name" : "Sucre"
+        },
+        {
+            "id" : 1861,
+            "id_country" : 95,
+            "name" : "Táchira"
+        },
+        {
+            "id" : 1862,
+            "id_country" : 95,
+            "name" : "Trujillo"
+        },
+        {
+            "id" : 1863,
+            "id_country" : 95,
+            "name" : "Yaracuy"
+        },
+        {
+            "id" : 1864,
+            "id_country" : 95,
+            "name" : "Zulia"
+        },
+        {
+            "id" : 1865,
+            "id_country" : 95,
+            "name" : "Dependencias Federales"
+        },
+        {
+            "id" : 1866,
+            "id_country" : 95,
+            "name" : "Distrito Metropolitano de Caracas"
+        },
+        {
+            "id" : 1867,
+            "id_country" : 95,
+            "name" : "Vargas"
+        },
+        {
+            "id" : 1869,
+            "id_country" : 209,
+            "name" : "Atlántico Norte"
+        },
+        {
+            "id" : 1870,
+            "id_country" : 209,
+            "name" : "Atlántico Sur"
+        },
+        {
+            "id" : 5870,
+            "id_country" : 209,
+            "name" : "Boaco"
+        },
+        {
+            "id" : 5871,
+            "id_country" : 209,
+            "name" : "Carazo"
+        },
+        {
+            "id" : 1871,
+            "id_country" : 209,
+            "name" : "Chinandega"
+        },
+        {
+            "id" : 1872,
+            "id_country" : 209,
+            "name" : "Chontales"
+        },
+        {
+            "id" : 1873,
+            "id_country" : 209,
+            "name" : "Estelí"
+        },
+        {
+            "id" : 1874,
+            "id_country" : 209,
+            "name" : "Granada"
+        },
+        {
+            "id" : 1875,
+            "id_country" : 209,
+            "name" : "Jinotega"
+        },
+        {
+            "id" : 1876,
+            "id_country" : 209,
+            "name" : "León"
+        },
+        {
+            "id" : 1877,
+            "id_country" : 209,
+            "name" : "Madriz"
+        },
+        {
+            "id" : 1878,
+            "id_country" : 209,
+            "name" : "Managua"
+        },
+        {
+            "id" : 1879,
+            "id_country" : 209,
+            "name" : "Masaya"
+        },
+        {
+            "id" : 1880,
+            "id_country" : 209,
+            "name" : "Matagalpa"
+        },
+        {
+            "id" : 1881,
+            "id_country" : 209,
+            "name" : "Nueva Segovia"
+        },
+        {
+            "id" : 1882,
+            "id_country" : 209,
+            "name" : "Rio San Juan"
+        },
+        {
+            "id" : 1883,
+            "id_country" : 209,
+            "name" : "Rivas"
+        },
+        {
+            "id" : 1884,
+            "id_country" : 209,
+            "name" : "Zelaya"
+        },
+        {
+            "id" : 1886,
+            "id_country" : 113,
+            "name" : "Pinar del Rio"
+        },
+        {
+            "id" : 1887,
+            "id_country" : 113,
+            "name" : "Ciudad de la Habana"
+        },
+        {
+            "id" : 1888,
+            "id_country" : 113,
+            "name" : "Matanzas"
+        },
+        {
+            "id" : 1889,
+            "id_country" : 113,
+            "name" : "Isla de la Juventud"
+        },
+        {
+            "id" : 1890,
+            "id_country" : 113,
+            "name" : "Camagüey"
+        },
+        {
+            "id" : 1891,
+            "id_country" : 113,
+            "name" : "Ciego de Avila"
+        },
+        {
+            "id" : 1892,
+            "id_country" : 113,
+            "name" : "Cienfuegos"
+        },
+        {
+            "id" : 1893,
+            "id_country" : 113,
+            "name" : "Granma"
+        },
+        {
+            "id" : 1894,
+            "id_country" : 113,
+            "name" : "Guantánamo"
+        },
+        {
+            "id" : 1895,
+            "id_country" : 113,
+            "name" : "Ciudad de La Habana"
+        },
+        {
+            "id" : 1896,
+            "id_country" : 113,
+            "name" : "Holguín"
+        },
+        {
+            "id" : 1897,
+            "id_country" : 113,
+            "name" : "Las Tunas"
+        },
+        {
+            "id" : 1898,
+            "id_country" : 113,
+            "name" : "Sancti Spíritus"
+        },
+        {
+            "id" : 1899,
+            "id_country" : 113,
+            "name" : "Santiago de Cuba"
+        },
+        {
+            "id" : 1900,
+            "id_country" : 113,
+            "name" : "Villa Clara"
+        },
+        {
+            "id" : 1901,
+            "id_country" : 12,
+            "name" : "Acre"
+        },
+        {
+            "id" : 1902,
+            "id_country" : 12,
+            "name" : "Alagoas"
+        },
+        {
+            "id" : 1903,
+            "id_country" : 12,
+            "name" : "Amapá"
+        },
+        {
+            "id" : 1904,
+            "id_country" : 12,
+            "name" : "Amazonas"
+        },
+        {
+            "id" : 1905,
+            "id_country" : 12,
+            "name" : "Bahía"
+        },
+        {
+            "id" : 1906,
+            "id_country" : 12,
+            "name" : "Ceará"
+        },
+        {
+            "id" : 1907,
+            "id_country" : 12,
+            "name" : "Distrito Federal"
+        },
+        {
+            "id" : 1908,
+            "id_country" : 12,
+            "name" : "Espirito Santo"
+        },
+        {
+            "id" : 1909,
+            "id_country" : 12,
+            "name" : "Mato Grosso do Sur"
+        },
+        {
+            "id" : 1910,
+            "id_country" : 12,
+            "name" : "Maranhão"
+        },
+        {
+            "id" : 1911,
+            "id_country" : 12,
+            "name" : "Mato Grosso"
+        },
+        {
+            "id" : 1912,
+            "id_country" : 12,
+            "name" : "Minas Gerais"
+        },
+        {
+            "id" : 1913,
+            "id_country" : 12,
+            "name" : "Pará"
+        },
+        {
+            "id" : 1914,
+            "id_country" : 12,
+            "name" : "Paraiba"
+        },
+        {
+            "id" : 1915,
+            "id_country" : 12,
+            "name" : "Estado de Paraná"
+        },
+        {
+            "id" : 1916,
+            "id_country" : 12,
+            "name" : "Piauí"
+        },
+        {
+            "id" : 1917,
+            "id_country" : 12,
+            "name" : "Rio de Janeiro"
+        },
+        {
+            "id" : 1918,
+            "id_country" : 12,
+            "name" : "Rio Grande do Norte"
+        },
+        {
+            "id" : 1919,
+            "id_country" : 12,
+            "name" : "Rio Grande do Sur"
+        },
+        {
+            "id" : 1920,
+            "id_country" : 12,
+            "name" : "Rondonia"
+        },
+        {
+            "id" : 1921,
+            "id_country" : 12,
+            "name" : "Roraima"
+        },
+        {
+            "id" : 1922,
+            "id_country" : 12,
+            "name" : "Santa Catarina"
+        },
+        {
+            "id" : 1923,
+            "id_country" : 12,
+            "name" : "Sao Paulo"
+        },
+        {
+            "id" : 1924,
+            "id_country" : 12,
+            "name" : "Sergipe"
+        },
+        {
+            "id" : 1925,
+            "id_country" : 12,
+            "name" : "Goias"
+        },
+        {
+            "id" : 1926,
+            "id_country" : 12,
+            "name" : "Pernambuco"
+        },
+        {
+            "id" : 1927,
+            "id_country" : 12,
+            "name" : "Tocantins"
+        },
+        {
+            "id" : 2073,
+            "id_country" : 138,
+            "name" : "Duarte"
+        },
+        {
+            "id" : 2074,
+            "id_country" : 138,
+            "name" : "Puerto Plata"
+        },
+        {
+            "id" : 2075,
+            "id_country" : 138,
+            "name" : "Valverde"
+        },
+        {
+            "id" : 2076,
+            "id_country" : 138,
+            "name" : "María Trinidad Sánchez"
+        },
+        {
+            "id" : 2077,
+            "id_country" : 138,
+            "name" : "Azua"
+        },
+        {
+            "id" : 2078,
+            "id_country" : 138,
+            "name" : "Santiago"
+        },
+        {
+            "id" : 2079,
+            "id_country" : 138,
+            "name" : "San Cristóbal"
+        },
+        {
+            "id" : 2080,
+            "id_country" : 138,
+            "name" : "Peravia"
+        },
+        {
+            "id" : 2081,
+            "id_country" : 138,
+            "name" : "Elías Piña"
+        },
+        {
+            "id" : 2082,
+            "id_country" : 138,
+            "name" : "Barahona"
+        },
+        {
+            "id" : 2083,
+            "id_country" : 138,
+            "name" : "Monte Plata"
+        },
+        {
+            "id" : 2084,
+            "id_country" : 138,
+            "name" : "Salcedo"
+        },
+        {
+            "id" : 2085,
+            "id_country" : 138,
+            "name" : "La Altagracia"
+        },
+        {
+            "id" : 2086,
+            "id_country" : 138,
+            "name" : "San Juan"
+        },
+        {
+            "id" : 2087,
+            "id_country" : 138,
+            "name" : "Monseñor Nouel"
+        },
+        {
+            "id" : 2088,
+            "id_country" : 138,
+            "name" : "Monte Cristi"
+        },
+        {
+            "id" : 2089,
+            "id_country" : 138,
+            "name" : "Espaillat"
+        },
+        {
+            "id" : 2090,
+            "id_country" : 138,
+            "name" : "Sánchez Ramírez"
+        },
+        {
+            "id" : 2091,
+            "id_country" : 138,
+            "name" : "La Vega"
+        },
+        {
+            "id" : 2092,
+            "id_country" : 138,
+            "name" : "San Pedro de Macorís"
+        },
+        {
+            "id" : 2093,
+            "id_country" : 138,
+            "name" : "Independencia"
+        },
+        {
+            "id" : 2094,
+            "id_country" : 138,
+            "name" : "Dajabón"
+        },
+        {
+            "id" : 2095,
+            "id_country" : 138,
+            "name" : "Baoruco"
+        },
+        {
+            "id" : 2096,
+            "id_country" : 138,
+            "name" : "El Seibo"
+        },
+        {
+            "id" : 2097,
+            "id_country" : 138,
+            "name" : "Hato Mayor"
+        },
+        {
+            "id" : 2098,
+            "id_country" : 138,
+            "name" : "La Romana"
+        },
+        {
+            "id" : 2099,
+            "id_country" : 138,
+            "name" : "Pedernales"
+        },
+        {
+            "id" : 2100,
+            "id_country" : 138,
+            "name" : "Samaná"
+        },
+        {
+            "id" : 2101,
+            "id_country" : 138,
+            "name" : "Santiago Rodríguez"
+        },
+        {
+            "id" : 2102,
+            "id_country" : 138,
+            "name" : "San José de Ocoa"
+        },
+        {
+            "id" : 12102,
+            "id_country" : 138,
+            "name" : "Distrito Nacional"
+        },
+        {
+            "id" : 12103,
+            "id_country" : 138,
+            "name" : " Hermanas Mirabal"
+        },
+        {
+            "id" : 2204,
+            "id_country" : 81,
+            "name" : "Arica y Parinacota"
+        },
+        {
+            "id" : 2205,
+            "id_country" : 81,
+            "name" : "Los Ríos"
+        },
+        
+        
+        {
+            "id" : 2207,
+            "id_country" : 81,
+            "name" : "Ñuble"
+        },
+        {
+            "id" : 2208,
+            "id_country" : 147,
+            "name" : "Redonda"
+        },
+        {
+            "id" : 2209,
+            "id_country" : 147,
+            "name" : "Saint George"
+        },
+        {
+            "id" : 2210,
+            "id_country" : 147,
+            "name" : "Saint John"
+        },
+        {
+            "id" : 2211,
+            "id_country" : 147,
+            "name" : "Saint Mary"
+        },
+        {
+            "id" : 2212,
+            "id_country" : 147,
+            "name" : "Saint Paul"
+        },
+        {
+            "id" : 2213,
+            "id_country" : 147,
+            "name" : "Saint Peter"
+        },
+        {
+            "id" : 2214,
+            "id_country" : 147,
+            "name" : "Saint Philip"
+        },
+        {
+            "id" : 403,
+            "id_country" : 80,
+            "name" : "Acklins"
+        },
+        {
+            "id" : 2215,
+            "id_country" : 80,
+            "name" : "Black Point"
+        },
+        {
+            "id" : 2216,
+            "id_country" : 80,
+            "name" : "Central Abaco"
+        },
+        {
+            "id" : 2217,
+            "id_country" : 80,
+            "name" : "Central Andros"
+        },
+        {
+            "id" : 2218,
+            "id_country" : 80,
+            "name" : "Central Eleuthera"
+        },
+        {
+            "id" : 2219,
+            "id_country" : 80,
+            "name" : "Isla de Crooked"
+        },
+        {
+            "id" : 2220,
+            "id_country" : 80,
+            "name" : "East Grand Bahama"
+        },
+        {
+            "id" : 2221,
+            "id_country" : 80,
+            "name" : "City of Freeport"
+        },
+        {
+            "id" : 2222,
+            "id_country" : 80,
+            "name" : "Grand Cay"
+        },
+        {
+            "id" : 2223,
+            "id_country" : 80,
+            "name" : "Isla Harbour"
+        },
+        {
+            "id" : 2224,
+            "id_country" : 80,
+            "name" : "Hope Town"
+        },
+        {
+            "id" : 2225,
+            "id_country" : 80,
+            "name" : "Isla Cat"
+        },
+        {
+            "id" : 2226,
+            "id_country" : 80,
+            "name" : "Islas Berry"
+        },
+        {
+            "id" : 2227,
+            "id_country" : 80,
+            "name" : "Bimini"
+        },
+        {
+            "id" : 2228,
+            "id_country" : 80,
+            "name" : "Exuma"
+        },
+        {
+            "id" : 2229,
+            "id_country" : 80,
+            "name" : "Great Inagua"
+        },
+        {
+            "id" : 2230,
+            "id_country" : 80,
+            "name" : "Long Island"
+        },
+        {
+            "id" : 2231,
+            "id_country" : 80,
+            "name" : "Mangrove Cay"
+        },
+        {
+            "id" : 2232,
+            "id_country" : 80,
+            "name" : "Mayaguana"
+        },
+        {
+            "id" : 2233,
+            "id_country" : 80,
+            "name" : "North Abaco"
+        },
+        {
+            "id" : 2234,
+            "id_country" : 80,
+            "name" : "North Andros"
+        },
+        {
+            "id" : 2235,
+            "id_country" : 80,
+            "name" : "North Eleuthera"
+        },
+        {
+            "id" : 2236,
+            "id_country" : 80,
+            "name" : "Isla Ragged"
+        },
+        {
+            "id" : 2237,
+            "id_country" : 80,
+            "name" : "Rum Cay"
+        },
+        {
+            "id" : 2238,
+            "id_country" : 80,
+            "name" : "San Salvador"
+        }
+        ,
+        {
+            "id" : 2239,
+            "id_country" : 80,
+            "name" : "South Abaco"
+        }
+        ,
+        {
+            "id" : 2240,
+            "id_country" : 80,
+            "name" : "South Andros"
+        }
+        ,
+        {
+            "id" : 2241,
+            "id_country" : 80,
+            "name" : "South Eleuthera"
+        }
+        ,
+        {
+            "id" : 2242,
+            "id_country" : 80,
+            "name" : "Spanish Wells"
+        }
+        ,
+        {
+            "id" : 2243,
+            "id_country" : 80,
+            "name" : "West Grand Bahama"
+        }
+        ,
+        {
+            "id" : 2244,
+            "id_country" : 128,
+            "name" : "Christ Church"
+        }
+        ,
+        {
+            "id" : 2245,
+            "id_country" : 128,
+            "name" : "Saint Andrew"
+        }
+        ,
+        {
+            "id" : 2246,
+            "id_country" : 128,
+            "name" : "Saint George"
+        }
+        ,
+        {
+            "id" : 2247,
+            "id_country" : 128,
+            "name" : "Saint James"
+        }
+        ,
+        {
+            "id" : 2248,
+            "id_country" : 128,
+            "name" : "Saint John"
+        }
+        ,
+        {
+            "id" : 2249,
+            "id_country" : 128,
+            "name" : "Saint Joseph"
+        }
+        ,
+        {
+            "id" : 2250,
+            "id_country" : 128,
+            "name" : "Saint Lucy"
+        }
+        ,
+        {
+            "id" : 2251,
+            "id_country" : 128,
+            "name" : "Saint Michael"
+        }
+        ,
+        {
+            "id" : 2252,
+            "id_country" : 128,
+            "name" : "Saint Peter"
+        }
+        ,
+        {
+            "id" : 2253,
+            "id_country" : 128,
+            "name" : "Saint Philip"
+        }
+        ,
+        {
+            "id" : 2254,
+            "id_country" : 128,
+            "name" : "Saint Thomas"
+        }
+        ,
+        {
+            "id" : 2255,
+            "id_country" : 8,
+            "name" : "Belice"
+        }
+        ,
+        {
+            "id" : 2256,
+            "id_country" : 8,
+            "name" : "Cayo"
+        }
+        ,
+        {
+            "id" : 2257,
+            "id_country" : 8,
+            "name" : "Corozal"
+        }
+        ,
+        {
+            "id" : 2258,
+            "id_country" : 8,
+            "name" : "Orange Walk"
+        }
+        ,
+        {
+            "id" : 2259,
+            "id_country" : 8,
+            "name" : "Stann Creek"
+        }
+        ,
+        {
+            "id" : 2260,
+            "id_country" : 8,
+            "name" : "Toledo"
+        }
+
+        ,
+        {
+            "id" : 2261,
+            "id_country" : 115,
+            "name" : "Saint Andrew"
+        }
+        ,
+        {
+            "id" : 2262,
+            "id_country" : 115,
+            "name" : "Saint David"
+        }
+        ,
+        {
+            "id" : 2263,
+            "id_country" : 115,
+            "name" : "Saint George"
+        }
+        ,
+        {
+            "id" : 2264,
+            "id_country" : 115,
+            "name" : "Saint John"
+        }
+        ,
+        {
+            "id" : 2265,
+            "id_country" : 115,
+            "name" : "Saint Joseph"
+        }
+        ,
+        {
+            "id" : 2266,
+            "id_country" : 115,
+            "name" : "Saint Luke"
+        }
+        ,
+        {
+            "id" : 2267,
+            "id_country" : 115,
+            "name" : "Saint Mark"
+        }
+        ,
+        {
+            "id" : 226115,
+            "id_country" : 115,
+            "name" : "Saint Patrick"
+        }
+        ,
+        {
+            "id" : 2269,
+            "id_country" : 115,
+            "name" : "Saint Paul"
+        }
+        ,
+        {
+            "id" : 2270,
+            "id_country" : 115,
+            "name" : "Saint Peter"
+        },
+        {
+            "id" : 2271,
+            "id_country" : 184,
+            "name" : "Carriacou and Petite Martinique"
+        },
+        {
+            "id" : 2272,
+            "id_country" : 184,
+            "name" : "Saint Andrew"
+        },
+        {
+            "id" : 2273,
+            "id_country" : 184,
+            "name" : "Saint David"
+        },
+        {
+            "id" : 2274,
+            "id_country" : 184,
+            "name" : "Saint George"
+        },
+        {
+            "id" : 2275,
+            "id_country" : 184,
+            "name" : "Saint John"
+        },
+        {
+            "id" : 2276,
+            "id_country" : 184,
+            "name" : "Saint Mark"
+        },
+        {
+            "id" : 2277,
+            "id_country" : 184,
+            "name" : "Saint Patrick"
+        },
+        {
+            "id" : 2278,
+            "id_country" : 189,
+            "name" : "Barima-Waini"
+        },
+        {
+            "id" : 2279,
+            "id_country" : 189,
+            "name" : "Berbice Oriental-Corentyne"
+        },
+        {
+            "id" : 2280,
+            "id_country" : 189,
+            "name" : "Cuyuni-Mazaruni"
+        },
+        {
+            "id" : 2281,
+            "id_country" : 189,
+            "name" : "Demerara-Mahaica"
+        },
+        {
+            "id" : 2282,
+            "id_country" : 189,
+            "name" : "Alto Demerara-Berbice"
+        },
+        {
+            "id" : 2283,
+            "id_country" : 189,
+            "name" : "Alto Takutu-Alto Esequibo"
+        },
+        {
+            "id" : 2284,
+            "id_country" : 189,
+            "name" : "Islas del Esequibo-Demerara Occidental"
+        },
+        {
+            "id" : 2285,
+            "id_country" : 189,
+            "name" : "Mahaica-Berbice"
+        },
+        {
+            "id" : 2286,
+            "id_country" : 189,
+            "name" : "Pomeroon-Supenaam"
+        },
+        {
+            "id" : 2287,
+            "id_country" : 189,
+            "name" : "Potaro-Siparuni"
+        },
+        {
+            "id" : 4386,
+            "id_country" : 137,
+            "name" : "Atlántida"
+        },
+        {
+            "id" : 4444,
+            "id_country" : 137,
+            "name" : "Choluteca"
+        },
+        {
+            "id" : 4445,
+            "id_country" : 137,
+            "name" : "Colón"
+        },
+        {
+            "id" : 4446,
+            "id_country" : 137,
+            "name" : "Comayagua"
+        },
+        {
+            "id" : 4447,
+            "id_country" : 137,
+            "name" : "Copán"
+        },
+        {
+            "id" : 4448,
+            "id_country" : 137,
+            "name" : "Cortés"
+        },
+        {
+            "id" : 4449,
+            "id_country" : 137,
+            "name" : "El Paraíso"
+        },
+        {
+            "id" : 4450,
+            "id_country" : 137,
+            "name" : "Francisco Morazán"
+        },
+        {
+            "id" : 4451,
+            "id_country" : 137,
+            "name" : "Gracias a Dios"
+        },
+        {
+            "id" : 4452,
+            "id_country" : 137,
+            "name" : "Intibucá"
+        },
+        {
+            "id" : 4453,
+            "id_country" : 137,
+            "name" : "Islas de la Bahía"
+        },
+        {
+            "id" : 4454,
+            "id_country" : 137,
+            "name" : "La Paz"
+        },
+        {
+            "id" : 4455,
+            "id_country" : 137,
+            "name" : "Lempira"
+        },
+        {
+            "id" : 4456,
+            "id_country" : 137,
+            "name" : "Ocotepeque"
+        },
+        {
+            "id" : 4457,
+            "id_country" : 137,
+            "name" : "Olancho"
+        },
+        {
+            "id" : 4458,
+            "id_country" : 137,
+            "name" : "Santa Bárbara"
+        },
+        {
+            "id" : 4459,
+            "id_country" : 137,
+            "name" : "Valle"
+        },
+        {
+            "id" : 4460,
+            "id_country" : 137,
+            "name" : "Yoro"
+        },
+        {
+            "id" : 5000,
+            "id_country" : 132,
+            "name" : "Clarendon"
+        },
+        {
+            "id" : 5001,
+            "id_country" : 132,
+            "name" : "Hanover"
+        },
+        {
+            "id" : 5002,
+            "id_country" : 132,
+            "name" : "Kingston"
+        },
+        {
+            "id" : 5003,
+            "id_country" : 132,
+            "name" : "Manchester"
+        },
+        {
+            "id" : 5004,
+            "id_country" : 132,
+            "name" : "Portland"
+        },
+        {
+            "id" : 5005,
+            "id_country" : 132,
+            "name" : "Saint Andrew"
+        },
+        {
+            "id" : 5006,
+            "id_country" : 132,
+            "name" : "St Ann"
+        },
+        {
+            "id" : 5007,
+            "id_country" : 132,
+            "name" : "St Catherine"
+        },
+        {
+            "id" : 5008,
+            "id_country" : 132,
+            "name" : "St Elizabeth"
+        },
+        {
+            "id" : 5009,
+            "id_country" : 132,
+            "name" : "St James"
+        },
+        {
+            "id" : 5010,
+            "id_country" : 132,
+            "name" : "St Mary"
+        },
+        {
+            "id" : 5011,
+            "id_country" : 132,
+            "name" : "St Thomas"
+        },
+        {
+            "id" : 5012,
+            "id_country" : 132,
+            "name" : "Trelawny"
+        },
+        {
+            "id" : 5013,
+            "id_country" : 132,
+            "name" : "Westmoreland"
+        },
+        {
+            "id" : 900,
+            "id_country" : 100,
+            "name" : "Distrito Senatorial de San Juan"
+        },
+        {
+            "id" : 901,
+            "id_country" : 100,
+            "name" : "Distrito Senatorial de Bayamón"
+        },
+        {
+            "id" : 902,
+            "id_country" : 100,
+            "name" : "Distrito Senatorial de Arecibo"
+        },
+        {
+            "id" : 903,
+            "id_country" : 100,
+            "name" : "Distrito Senatorial de Aguadilla/ Mayagüez"
+        },
+        {
+            "id" : 904,
+            "id_country" : 100,
+            "name" : "Distrito Senatorial de Ponce"
+        },
+        {
+            "id" : 905,
+            "id_country" : 100,
+            "name" : "Distrito Senatorial de Guayama"
+        },
+        {
+            "id" : 906,
+            "id_country" : 100,
+            "name" : "Distrito Senatorial de Humacao"
+        },
+        {
+            "id" : 907,
+            "id_country" : 100,
+            "name" : "Distrito Senatorial de Carolina"
+        }
+
+    ]}

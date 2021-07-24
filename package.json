@@ -1,0 +1,22 @@
+{
+  "name": "unigeo",
+  "version": "1.0.0",
+  "description": "Api for get countries names and provinces",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon run src/index.js"
+  },
+  "author": "Luciano Emanuel Ricardo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dayjs": "^1.10.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.3",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.12"
+  }
+}
