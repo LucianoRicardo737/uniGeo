@@ -737,7 +737,500 @@
       "lon": "-59.2014475514635",
       "cities": [
         {
-          "nameCity": "",
+          "nameCity": "Aldea Brasilera",
+          "department": "Diamante",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Aldea María Luisa",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Aldea San Antonio",
+          "department": "Gualeguaychú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Aranguren",
+          "department": "Nogoyá",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Basavilbaso",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Bovril",
+          "department": "La Paz",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Caseros",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ceibas",
+          "department": "Islas del Ibicuy",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cerrito",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chajarí",
+          "department": "Federación",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Avellaneda",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Ayuí",
+          "department": "Concordia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Elía",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colón",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Concepción del Uruguay",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Concordia",
+          "department": "Concordia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Conscripto Bernardi",
+          "department": "Federal",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Crespo",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Diamante",
+          "department": "Diamante",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Pingo",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Enrique Carbó",
+          "department": "Gualeguaychú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Estancia Grande",
+          "department": "Concordia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Federación",
+          "department": "Federación",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Federal",
+          "department": "Federal",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Campos",
+          "department": "San Salvador",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Galarza",
+          "department": "Gualeguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Ramírez",
+          "department": "Diamante",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gilbert",
+          "department": "Gualeguaychú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gobernador Maciá",
+          "department": "Tala",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gobernador Mansilla",
+          "department": "Tala",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gualeguay",
+          "department": "Gualeguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gualeguaychú",
+          "department": "Gualeguaychú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Hasenkamp",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Hernández",
+          "department": "Nogoyá",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Herrera",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ibicuy",
+          "department": "Islas del Ibicuy",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Criolla",
+          "department": "Concordia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Paz",
+          "department": "La Paz",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Larroque",
+          "department": "Gualeguaychú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Libertador San Martín",
+          "department": "Diamante",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Charrúas",
+          "department": "Concordia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Conquistadores",
+          "department": "Federación",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Lucas González",
+          "department": "Nogoyá",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "María Grande",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Nogoyá",
+          "department": "Nogoyá",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Oro Verde",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Paraná",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Piedras Blancas",
+          "department": "La Paz",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Primero de Mayo",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pronunciamiento",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pueblo Brugo",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pueblo General Belgrano",
+          "department": "Gualeguaychú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pueblo Liebig",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puerto Yeruá",
+          "department": "Concordia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Rosario del Tala ",
+          "department": "Tala",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Benito",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Gustavo",
+          "department": "La Paz",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Jaime de la Frontera",
+          "department": "Federación",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San José",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San José de Feliciano",
+          "department": "Feliciano",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Justo",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Salvador",
+          "department": "San Salvador",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Ana",
+          "department": "Federación",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Anita",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Elena",
+          "department": "La Paz",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sauce de Luna",
+          "department": "Federal",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Seguí",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tabossi",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ubajay",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Urdinarrain",
+          "department": "Gualeguaychú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Valle María",
+          "department": "Diamante",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Viale",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Victoria",
+          "department": "Victoria",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Alcaraz",
+          "department": "La Paz",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Clara",
+          "department": "Villaguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa del Rosario",
+          "department": "Federación",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Domínguez",
+          "department": "Villaguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Elisa",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Hernandarias",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Mantero",
+          "department": "Uruguay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Paranacito",
+          "department": "Islas del Ibicuy",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Urquiza",
+          "department": "Paraná",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villaguay",
+          "department": "Villaguay",
           "lat": "",
           "lon": ""
         }
@@ -750,9 +1243,10 @@
       "cities": [
         {
           "nameCity": "",
+          "department": "",
           "lat": "",
           "lon": ""
-        }
+        },
       ]
     },
     {
