@@ -1580,7 +1580,164 @@
       "lon": "-68.5267593943345",
       "cities": [
         {
-          "nameCity": "",
+          "nameCity": "Alto Río Senguer",
+          "department": "Río Senguer",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Camarones",
+          "department": "Florentino Ameghino",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cholila",
+          "department": "Cushamen",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Comodoro Rivadavia",
+          "department": "Escalante",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Corcovado",
+          "department": "Futaleufú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Dolavon",
+          "department": "Gaiman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Hoyo",
+          "department": "Cushamen",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Maitén",
+          "department": "Cushamen",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Epuyén",
+          "department": "Cushamen",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Esquel",
+          "department": "Tehuelches",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gaiman",
+          "department": "Gaiman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gobernador Costa",
+          "department": "Tehuelches",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gualjaina",
+          "department": "Cushamen",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "José de San Martín",
+          "department": "Tehuelches",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Lago Puelo",
+          "department": "Cushamen",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Paso de Indios",
+          "department": "Paso de Indios",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puerto Madryn",
+          "department": "Biedma",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puerto Pirámides",
+          "department": "Biedma",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Rada Tilly",
+          "department": "Escalante",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Rawson",
+          "department": "Rawson",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Mayo",
+          "department": "Río Senguer",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Pico",
+          "department": "Tehuelches",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sarmiento",
+          "department": "Sarmiento",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tecka",
+          "department": "Languiñeo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Trelew",
+          "department": "Rawson",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Trevelin",
+          "department": "Futaleufú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Veintiocho de Julio",
+          "department": "Gaiman",
           "lat": "",
           "lon": ""
         }
@@ -1592,7 +1749,1562 @@
       "lon": "-63.8017532741662",
       "cities": [
         {
-          "nameCity": "",
+          "nameCity": "Achiras",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Adelia María",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Agua de Oro",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Alcira Gigena",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Alejandro Roca",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Alejo Ledesma",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Alicia",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Almafuerte",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Alpa Corral",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Alta Gracia",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Alto Alegre",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Altos de Chipión",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Anisacate",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Arias",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Arroyito",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Arroyo Algodón",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Arroyo Cabral",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ausonia",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ballesteros",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ballesteros Sud",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Balnearia",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Bell Ville",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Bengolea",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Benjamín Gould",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Berrotarán",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Bialet Massé",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Bouwer",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Brinkmann",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Buchardo",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Bulnes",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Calchín",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Calchín Oeste",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Camilo Aldao",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Canals",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cañada de Luque",
+          "department": "Totoral",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Capilla del Carmen",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Capilla del Monte",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Capitán General Bernardo O'Higgins",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Carnerillo",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Carrilobo",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cavanagh",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chaján",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Charras",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chazón",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chilibroste",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cintra",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colazo",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Almada",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Bismarck",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Caroya",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Italiana",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Marina",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Prosperidad",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia San Bartolomé",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Tirolesa",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Vignaud",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Córdoba",
+          "department": "Capital",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Coronel Baigorria",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Coronel Moldes",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Corral de Bustos - Ifflinger",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Corralito",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cosquín",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Costa Sacate",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cruz Alta",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cruz del Eje",
+          "department": "Cruz del Eje",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Dalmacio Vélez Sarfield",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Deán Funes",
+          "department": "Ischilín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Del Campillo",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Despeñaderos",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Devoto",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Arañado",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Brete",
+          "department": "Cruz del Eje",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Fortín",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Tío",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Elena",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Embalse",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Estación General Paz",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Estación General Paz",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Etruria",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Freyre",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Baldissera",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Cabrera",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Deheza",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Levalle",
+          "department": "Presidente Roque Sáenz Peña",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Roca",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Guatimozín",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Hernando",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Huanchilla",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Huerta Grande",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Huinca Renancó",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Idiazábal",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Inriville",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Isla Verde",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Italó",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "James Craik",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Jesús María",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Jovita",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Justiniano Posse",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Calera",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Carlota",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Cautiva",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Cesira",
+          "department": "Presidente Roque Sáenz Peña",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Cruz",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Cumbre",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Falda",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Francia",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Granja",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Laguna",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Palestina",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Paquita",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Para",
+          "department": "Río Primero",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Paz",
+          "department": "San Javier",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Playosa",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Puerta",
+          "department": "Río Primero",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Tordilla",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Laborde",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Laboulaye",
+          "department": "Presidente Roque Sáenz Peña",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Laguna Larga",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Acequias",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Arrias",
+          "department": "Tulumba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Higueras",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Junturas",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Peñas",
+          "department": "Totoral",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Perdices",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Tapias",
+          "department": "San Javier",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Varas",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Varillas",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Vertientes",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Leones",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Cerrillos",
+          "department": "San Javier",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Cisnes",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Cocos",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Cóndores",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Surgentes",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Zorros",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Lozada",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Luca",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Lucio V. Mansilla",
+          "department": "Tulumba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Luque",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Malagueño",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Malvinas Argentinas",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Manfredi",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Marcos Juárez",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Marull",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Matorrales",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Mattaldi",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Melo",
+          "department": "Presidente Roque Sáenz Peña",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Mendiolaza",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Mi Granja",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Mina Clavero",
+          "department": "San Alberto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Miramar de Ansenuza",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Monte Buey",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Monte Cristo",
+          "department": "Río Primero",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Monte de los Gauchos",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Monte Leña",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Monte Maíz",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Monte Ralo",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Morrison",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Morteros",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Noetinger",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Nono",
+          "department": "San Alberto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Obispo Trejo",
+          "department": "Río Primero",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Olaeta",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Oliva",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Oncativo",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ordóñez",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pampayasta Sud",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pascanas",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pasco",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pilar",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Piquillín",
+          "department": "Río Primero",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Porteña",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pozo del Molle",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pueblo Italiano",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Quebracho Herrado",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Quilino",
+          "department": "Ischilín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Reducción",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Ceballos",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Cuarto",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río de los Sauces",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Primero",
+          "department": "Río Primero",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Segundo",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Tercero",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Rosales",
+          "department": "Presidente Roque Sáenz Peña",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sacanta",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Saira",
+          "department": "Marcos Juárez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Saldán",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Salsacate",
+          "department": "Pocho",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Salsipuedes",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sampacho",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Agustín",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Antonio de Arredondo",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Antonio de Litín",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Basilio",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Carlos Minas",
+          "department": "Minas",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Esteban",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Francisco",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Francisco del Chañar",
+          "department": "Sobremonte",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Javier y Yacanto",
+          "department": "San Javier",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San José",
+          "department": "San Javier",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San José de la Dormida",
+          "department": "Tulumba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San José de las Salinas",
+          "department": "Tulumba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Marco Sierras",
+          "department": "Cruz del Eje",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Marcos Sud",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Pedro",
+          "department": "San Alberto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Pedro Norte",
+          "department": "Tulumba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Catalina / Holmberg",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Eufemia",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa María de Punilla",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Rosa de Calamuchita",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Rosa de Río Primero",
+          "department": "Río Primero",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santiago Temple",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sarmiento",
+          "department": "Totoral",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Saturnino María Laspiur",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sebastián Elcano",
+          "department": "Río Seco",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Seeber",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Serrano",
+          "department": "Presidente Roque Sáenz Peña",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Serrezuela",
+          "department": "Cruz del Eje",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Silvio Pellico",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sinsacate",
+          "department": "Totoral",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tancacha",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tanti",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ticino",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tío Pujio",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Toledo",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tosquita",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tránsito",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ucacha",
+          "department": "Juárez Celman",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Unquillo",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Valle Hermoso",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Viamonte",
+          "department": "Unión",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Vicuña Mackenna",
+          "department": "Río Cuarto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Allende",
+          "department": "Colón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Ascasubi",
+          "department": "Tercero Arriba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Carlos Paz",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Concepción del Tío",
+          "department": "San Justo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Cura Brochero",
+          "department": "San Alberto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa de las Rosas",
+          "department": "San Javier",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa de María de Río Seco",
+          "department": "Río Seco",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa de Soto",
+          "department": "Cruz del Eje",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa del Dique",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa del Rosario",
+          "department": "Río Segundo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa del Totoral",
+          "department": "Totoral",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Dolores",
+          "department": "San Javier",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Fontana",
+          "department": "Río Primero",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa General Belgrano",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Giardino",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Huidobro",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Icho Cruz",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa María",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Nueva",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Parque Santa Ana",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Rossi",
+          "department": "Presidente Roque Sáenz Peña",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Rumipal",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Santa Cruz del Lago",
+          "department": "Punilla",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Sarmiento",
+          "department": "San Alberto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Tulumba",
+          "department": "Tulumba",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Valeria",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Yacanto",
+          "department": "Calamuchita",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Wenceslao Escalante",
+          "department": "Unión",
           "lat": "",
           "lon": ""
         }
