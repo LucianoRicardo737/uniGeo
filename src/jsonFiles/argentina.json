@@ -3431,7 +3431,110 @@
       "lon": "-67.1817359694432",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Aimogasta /Arauco",
+          "department": "Arauco",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Aminga /Castro Barros",
+          "department": "Castro Barros",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chamical",
+          "department": "Chamical",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chepes /R.Vera Peñaloza",
+          "department": "Rosario Vera Peñaloza",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chilecito",
+          "department": "Chilecito",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Famatina",
+          "department": "Famatina",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Rioja",
+          "department": "Capital",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Sauces /San Blas",
+          "department": "San Blas de los Sauces",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Malanzán /Gral. J.F.Quiroga",
+          "department": "General Juan Facundo Quiroga",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Olta /Gral. Belgrano",
+          "department": "General Belgrano",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Patquía /Independencia",
+          "department": "Independencia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tama /Gral. Peñaloza",
+          "department": "Gral. Ángel V. Peñaloza",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ulapes /San Martín",
+          "department": "General San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Castelli",
+          "department": "General Lamadrid",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa San José de Vinchina",
+          "department": "Vinchina",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Sanagasta",
+          "department": "Sanagasta",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Santa Rita de Catuna/ Gral Ocampo",
+          "department": "General Ocampo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Unión /Cnel. F. Varela",
+          "department": "Coronel Felipe Varela",
           "lat": "",
           "lon": ""
         }
@@ -3443,7 +3546,218 @@
       "lon": "-66.9476824299928",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Aconquija",
+          "department": "Andalgalá",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ancasti",
+          "department": "Ancasti",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Andagalá",
+          "department": "Andagalá",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Antofagasta de la Sierra",
+          "department": "Antofagasta de la Sierra",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Belén",
+          "department": "Belén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Capayán",
+          "department": "Capayán",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Corral Quemado",
+          "department": "Belén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Alto",
+          "department": "El Alto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Rodeo",
+          "department": "Ambato",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Fiambalá",
+          "department": "Tinogasta",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Fray Mamerto Esquiú",
+          "department": "Fray Mamerto Esquiú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Hualfín",
+          "department": "Belén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Huillapima",
+          "department": "Capayán",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Icaño",
+          "department": "La Paz",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Puerta",
+          "department": "Ambato",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Juntas",
+          "department": "Ambato",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Londres",
+          "department": "Belén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Altos",
+          "department": "Santa Rosa",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Varela",
+          "department": "Ambato",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Mutquín",
+          "department": "Pomán",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Paclín",
+          "department": "Paclín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pomán",
+          "department": "Pomán",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pozo de Piedra",
+          "department": "Belén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puerta de Corral Quemado",
+          "department": "Belén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puerta de San José",
+          "department": "Belén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Recreo",
+          "department": "La Paz",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Fernando",
+          "department": "Belén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Fernando del Valle de Catamarca",
+          "department": "Capital",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San José",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa María",
+          "department": "Santa María",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Rosa",
+          "department": "Santa Rosa",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Saujil",
+          "department": "Pomán",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tapso",
+          "department": "El Alto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tinogasta",
+          "department": "Tinogasta",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Valle Viejo",
+          "department": "Valle Viejo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Vil",
+          "department": "Belén",
           "lat": "",
           "lon": ""
         }
@@ -3455,7 +3769,368 @@
       "lon": "-65.4466546606951",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Abramo",
+          "department": "Hucal",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Algarrobo del Águila",
+          "department": "Chical Có",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Alpachiri",
+          "department": "Guatraché",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Alta Italia",
+          "department": "Realicó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Anguil",
+          "department": "Capital",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Arata",
+          "department": "Trenel",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ataliva Roca",
+          "department": "Utracán",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Bernardo Larroudé",
+          "department": "Chapaleufú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Bernasconi",
+          "department": "Hucal",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Caleufú",
+          "department": "Rancul",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Carro Quemado",
+          "department": "Loventué",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Catriló",
+          "department": "Catriló",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ceballos",
+          "department": "Chapaleufú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia 25 de Mayo",
+          "department": "Puelén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Barón",
+          "department": "Quemú Quemú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Santa Teresa",
+          "department": "Guatraché",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Conhello",
+          "department": "Conhello",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Coronel Hilario Lagos",
+          "department": "Chapaleufú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Doblas",
+          "department": "Atreucó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Dorila",
+          "department": "Maracó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Eduardo Castex",
+          "department": "Conhello",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Embajador Martini",
+          "department": "Realicó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Acha",
+          "department": "Utracán",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Manuel Campos",
+          "department": "Guatraché",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Pico",
+          "department": "Maracó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General San Martín",
+          "department": "Hucal",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gobernador Duval",
+          "department": "Curacó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Guatraché",
+          "department": "Guatraché",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ingeniero Luiggi",
+          "department": "Realicó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Intendente Alvear",
+          "department": "Chapaleufú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Jacinto Arauz",
+          "department": "Hucal",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Adela",
+          "department": "Caleu Caleu",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Humada",
+          "department": "Chical Có",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Maruja",
+          "department": "Rancul",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Lonquimay",
+          "department": "Catriló",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Luan Toro",
+          "department": "Loventué",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Macachín",
+          "department": "Atreucó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Mauricio Mayer",
+          "department": "Conhello",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Metileo",
+          "department": "Trenel",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Miguel Cané",
+          "department": "Quemú Quemú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Miguel Riglos",
+          "department": "Atreucó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Monte Nievas",
+          "department": "Conhello",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Parera",
+          "department": "Rancul",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puelches",
+          "department": "Curacó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puelén",
+          "department": "Puelén",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Quehué",
+          "department": "Utracán",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Quemú Quemú",
+          "department": "Quemú Quemú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Rancul",
+          "department": "Rancul",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Realicó",
+          "department": "Realicó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Rolón",
+          "department": "Atreucó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Isabel",
+          "department": "Chalileo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Rosa",
+          "department": "Capital",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Telén",
+          "department": "Loventué",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Toay",
+          "department": "Toay",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tomás Manuel Anchorena",
+          "department": "Atreucó",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Trenel",
+          "department": "Trenel",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Uriburu",
+          "department": "Catriló",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Victorica",
+          "department": "Loventué",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Mirasol",
+          "department": "Quemú Quemú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Vértiz",
+          "department": "Chapaleufú",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Winifreda",
+          "department": "Conhello",
           "lat": "",
           "lon": ""
         }
@@ -3467,7 +4142,170 @@
       "lon": "-63.2523866568588",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Añatuya",
+          "department": "General Taboada",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Bandera",
+          "department": "Belgrano",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Beltrán",
+          "department": "Robles",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Campo Gallo",
+          "department": "Alberdi",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Clodomira",
+          "department": "Banda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Colonia Dora",
+          "department": "Avellaneda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Fernández",
+          "department": "Robles",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Frías",
+          "department": "Choya",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ingeniero Forres",
+          "department": "Robles",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "La Banda",
+          "department": "Banda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Loreto",
+          "department": "Loreto",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Juríes",
+          "department": "General Taboada",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Telares",
+          "department": "Salavina",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Monte Quemado",
+          "department": "Copo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Nueva Esperanza",
+          "department": "Pellegrini",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pampa de los Guanacos",
+          "department": "Copo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pinto",
+          "department": "Aguirre",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pozo Hondo",
+          "department": "Jiménez",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Quimilí",
+          "department": "Moreno",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Pedro de Guasayán",
+          "department": "Guasayán",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santiago del Estero",
+          "department": "Capital",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Selva",
+          "department": "Rivadavia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sumampa",
+          "department": "Quebrachos",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Suncho Corral",
+          "department": "Juan Felipe Ibarra",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Termas de Río Hondo",
+          "department": "Río Hondo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Tintina",
+          "department": "Moreno",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Atamisqui",
+          "department": "Atamisqui",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Ojo de Agua",
+          "department": "Ojo de Agua",
           "lat": "",
           "lon": ""
         }
