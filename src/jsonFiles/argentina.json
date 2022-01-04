@@ -4317,10 +4317,450 @@
       "lon": "-57.8012191977913",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Bella Vista",
+          "department": "Bella Vista",
           "lat": "",
           "lon": ""
-        }
+        },
+        {
+            "nameCity": "Berón de Astrada",
+            "department": "Berón de Astrada",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Bonpland",
+            "department": "Paso de los Libres",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Caá Catí",
+            "department": "General Paz",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cazadores Correntinos",
+            "department": "Curuzú Cuatiá",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cecilio Echavarría",
+            "department": "Lavalle",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Chavarría",
+            "department": "San Roque",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Carlos Pellegrini",
+            "department": "San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Carolina",
+            "department": "Goya",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Libertad",
+            "department": "Monte Caseros",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Liebig",
+            "department": "Ituzaingó",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Pando",
+            "department": "San Roque",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Concepción del Yaguareté Corá",
+            "department": "Concepción",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Corrientes",
+            "department": "Capital",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cruz de los Milagros",
+            "department": "Lavalle",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Curuzú Cuatiá",
+            "department": "Curuzú Cuatiá",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Sombrero",
+            "department": "Empedrado",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Empedrado",
+            "department": "Empedrado",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Esquina",
+            "department": "Esquina",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Estación Torrent",
+            "department": "General Alvear",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Felipe Yofre",
+            "department": "Mercedes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Garruchos",
+            "department": "Santo Tomé",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Alvear",
+            "department": "General Alvear",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Gobernador Ing. Valentín Virasoro",
+            "department": "Santo Tomé",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Gobernador Martínez",
+            "department": "Lavalle",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Goya",
+            "department": "Goya",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Guaviraví",
+            "department": "San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Herlitzka",
+            "department": "San Luis del Palmar",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Itá Ibaté",
+            "department": "General Paz",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Itatí",
+            "department": "Itatí",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ituzaingó",
+            "department": "Ituzaingó",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "José Rafael Gómez",
+            "department": "Santo Tomé",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Juan Pujol",
+            "department": "Monte Caseros",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Cruz",
+            "department": "San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lavalle",
+            "department": "Lavalle",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lomas de Vallejos",
+            "department": "General Paz",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Loreto",
+            "department": "San Miguel",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Mariano I. Loza",
+            "department": "Mercedes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Mburucuyá",
+            "department": "Mburucuyá",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Mercedes",
+            "department": "Mercedes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Mocoretá",
+            "department": "Monte Caseros",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Monte Caseros",
+            "department": "Monte Caseros",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Nueve de Julio",
+            "department": "San Roque",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pago de los Deseos",
+            "department": "Saladas",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Palmar Grande",
+            "department": "General Paz",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Parada Pucheta",
+            "department": "Paso de los Libres",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Paso de la Patria",
+            "department": "San Cosme",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Paso de los Libres",
+            "department": "Paso de los Libres",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pedro R. Fernández / Estación Mantilla",
+            "department": "San Roque",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Perugorría",
+            "department": "Curuzú Cuatiá",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pueblo Libertador",
+            "department": "Esquina",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ramada Paso",
+            "department": "Itatí",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Riachuelo",
+            "department": "Capital",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Saladas",
+            "department": "Saladas",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Antonio de Apipé",
+            "department": "Ituzaingó",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Carlos",
+            "department": "Ituzaingó",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Cosme",
+            "department": "San Cosme",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Isidro",
+            "department": "Goya",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Lorenzo",
+            "department": "Saladas",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Luis del Palmar",
+            "department": "San Luis del Palmar",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Miguel",
+            "department": "San Miguel",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Roque",
+            "department": "San Roque",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santa Ana de los Guácaras",
+            "department": "San Cosme",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santa Lucía",
+            "department": "Lavalle",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santa Rosa",
+            "department": "Concepción",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santo Tomé",
+            "department": "Santo Tomé",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Sauce",
+            "department": "Sauce",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tabay",
+            "department": "Concepción",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tapebicuá",
+            "department": "Paso de los Libres",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tatacuá",
+            "department": "Concepción",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tres de Abril",
+            "department": "Bella Vista",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Olivari",
+            "department": "Ituzaingó",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Yapeyú",
+            "department": "San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Yataytí Calle",
+            "department": "Lavalle",
+            "lat": "",
+            "lon": ""
+          }
+
       ]
     },
     {
@@ -4329,10 +4769,346 @@
       "lon": "-60.9498369430241",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Armstrong",
+           "department": "Belgrano",
           "lat": "",
           "lon": ""
-        }
+        },
+        {
+            "nameCity": "Arroyo Seco",
+            "department": "Rosario",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Avellaneda",
+            "department": "General Obligado",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Calchaquí",
+            "department": "Vera",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Capitán Bermúdez",
+            "department": "San Lorenzo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Carcarañá",
+            "department": "San Lorenzo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Casilda",
+            "department": "Caseros",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cañada de Gómez",
+            "department": "Iriondo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ceres",
+            "department": "San Cristóbal",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Coronda",
+            "department": "San Jerónimo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Trébol",
+            "department": "San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Esperanza",
+            "department": "Las Colonias",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Firmat",
+            "department": "General López",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Florencia",
+            "department": "General Obligado",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Fray Luis Beltrán",
+            "department": "San Lorenzo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Frontera",
+            "department": "Castellanos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Funes",
+            "department": "Rosario",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Granadero Baigorria",
+            "department": "Rosario",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Gálvez",
+            "department": "San Jerónimo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Laguna Paiva",
+            "department": "La Capital",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Parejas",
+            "department": "Belgrano",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Rosas",
+            "department": "Belgrano",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Toscas",
+            "department": "General Obligado",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Malabrigo",
+            "department": "General Obligado",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pueblo Esther",
+            "department": "Rosario",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Puerto General San Martín",
+            "department": "San Lorenzo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pérez",
+            "department": "Rosario",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rafaela",
+            "department": "Castellanos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Reconquista",
+            "department": "General Obligado",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Recreo",
+            "department": "La Capital",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Roldán",
+            "department": "San Lorenzo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Romang",
+            "department": "San Javier",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rosario",
+            "department": "Rosario",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rufino",
+            "department": "General López",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Carlos Centro",
+            "department": "Las Colonias",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Cristóbal",
+            "department": "San Cristóbal",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Genaro",
+            "department": "San Jerónimo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Guillermo",
+            "department": "San Cristóbal",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Javier",
+            "department": "San Javier",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Jerónimo Norte",
+            "department": "Las Colonias",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Jorge",
+            "department": "San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San José del Rincón",
+            "department": "La Capital",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Justo",
+            "department": "San Justo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Lorenzo",
+            "department": "San Lorenzo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santa Fe",
+            "department": "La Capital",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santo Tomé",
+            "department": "La Capital",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Sastre",
+            "department": "San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Suardi",
+            "department": "San Cristóbal",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Sunchales",
+            "department": "Castellanos",
+            "lat": "",
+            "lon": ""
+          }, {
+            "nameCity": "Tostado",
+            "department": "9 de julio",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Totoras",
+            "department": "Iriondo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Venado Tuerto",
+            "department": "General López",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Vera",
+            "department": "Vera",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Cañás",
+            "department": "General López",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Constitución",
+            "department": "Constitución",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Gobernador Gálvez",
+            "department": "Rosario",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Ocampo",
+            "department": "General Obligado",
+            "lat": "",
+            "lon": ""
+          }
       ]
     },
     {
