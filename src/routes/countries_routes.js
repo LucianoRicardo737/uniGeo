@@ -3,7 +3,7 @@ const router = require("express").Router();
 
 const CountriesDb = require("../schema/countries");
 
-router.get("/getAllCountries", async (req, res) => {
+router.get("/getAllCountryes", async (req, res) => {
   try {
     const allCountrys = await CountriesDb.find();
     res.send(allCountrys);
