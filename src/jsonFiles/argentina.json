@@ -616,7 +616,116 @@
       "lon": "-68.8894908486844",
       "cities": [
         {
-          "nameCity": "",
+          "nameCity": "Albardón",
+          "department": "Albardón",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Angaco",
+          "department": "Angaco",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Calingasta",
+          "department": "Calingasta",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Capital",
+          "department": "Capital",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Caucete",
+          "department": "Caucete",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chimbas",
+          "department": "Chimbas",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Iglesia",
+          "department": "Iglesia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Jáchal",
+          "department": "Jáchal",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Nueve de Julio",
+          "department": "Nueve de Julio",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pocito",
+          "department": "Pocito",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Rawson",
+          "department": "Rawson",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Rivadavia",
+          "department": "Rivadavia",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Martín",
+          "department": "San Martín",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Santa Lucía",
+          "department": "Santa Lucía",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sarmiento",
+          "department": "Sarmiento",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ullum",
+          "department": "Ullum",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Valle Fértil",
+          "department": "Valle Fértil",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Veinticinco de Mayo",
+          "department": "Veinticinco de Mayo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Zonda",
+          "department": "Zonda",
           "lat": "",
           "lon": ""
         }
