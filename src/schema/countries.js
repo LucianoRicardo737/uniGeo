@@ -18,6 +18,7 @@ const geoCountrySchema = new mongoose.Schema({
         lon:{type:String, required:false, unique:false},
         cities:[{
             nameCity:{type:String, required:false, unique:false},
+            department:{type:String, required:false, unique:false},
             lat:{type:String, required:false, unique:false},
             lon:{type:String, required:false, unique:false},
         }]
