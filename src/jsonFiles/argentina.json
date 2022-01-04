@@ -1242,11 +1242,95 @@
       "lon": "-69.9557621671973",
       "cities": [
         {
-          "nameCity": "",
-          "department": "",
+          "nameCity": "Caleta Olivia",
+          "department": "Deseado",
           "lat": "",
           "lon": ""
         },
+        {
+          "nameCity": "Comandante Luis Piedrabuena",
+          "department": "Corpen Aike",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Calafate",
+          "department": "Lago Argentino",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Chaltén",
+          "department": "Lago Argentino",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Gobernador Gregores",
+          "department": "Río Chico",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Las Heras",
+          "department": "Deseado",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Antiguos",
+          "department": "Lago Buenos Aires",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Perito Moreno",
+          "department": "Lago Buenos Aires",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pico Truncado",
+          "department": "Deseado",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puerto Deseado",
+          "department": "Deseado",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puerto San Julián",
+          "department": "Magallanes",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Puerto Santa Cruz",
+          "department": "Corpen Aike",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Gallegos",
+          "department": "Güer Aike",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Turbio",
+          "department": "Güer Aike",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Veintiocho de Noviembre",
+          "department": "Güer Aike",
+          "lat": "",
+          "lon": ""
+        }
       ]
     },
     {
