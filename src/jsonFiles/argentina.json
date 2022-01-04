@@ -5117,10 +5117,119 @@
       "lon": "-65.3647579441481",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Aguilares",
+          "department": "Río Chico",
           "lat": "",
           "lon": ""
-        }
+        },
+        {
+            "nameCity": "Alderetes",
+            "department": "Cruz Alta",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Banda del Río Salí",
+            "department": "Cruz Alta",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Bella Vista",
+            "department": "Leales",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Burruyacú",
+            "department": "Burruyacú",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Concepción",
+            "department": "Chicligasta",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Famaillá",
+            "department": "Famaillá",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Graneros",
+            "department": "Graneros",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Juan Bautista Alberdi",
+            "department": "Juan Bautista Alberdi",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Cocha",
+            "department": "La Cocha",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Talitas",
+            "department": "Tafí Viejo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lules",
+            "department": "Lules",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Monteros",
+            "department": "Monteros",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Miguel de Tucumán ",
+            "department": "Capital",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Simoca",
+            "department": "Simoca",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tafí del Valle",
+            "department": "Tafí del Valle",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tafí Viejo",
+            "department": "Tafí Viejo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Trancas",
+            "department": "Trancas",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Yerba Buena",
+            "department": "Yerba Buena",
+            "lat": "",
+            "lon": ""
+          }
       ]
     },
     {
@@ -5129,10 +5238,221 @@
       "lon": "-70.1185705180601",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Aluminé",
+          "department": "Aluminé",
           "lat": "",
           "lon": ""
-        }
+        },
+        {
+            "nameCity": "Andacollo",
+            "department": "Minas",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Añelo",
+            "department": "Añelo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Bajada del Agrio",
+            "department": "Picunches",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Barrancas",
+            "department": "Pehuenches",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Buta Ranquil",
+            "department": "Pehuenches",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Caviahue-Copahue",
+            "department": "Ñorquín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Centenario",
+            "department": "Confluencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Chos Malal",
+            "department": "Chos Malal",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cutral-Có",
+            "department": "Confluencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Cholar",
+            "department": "Ñorquín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Huecú",
+            "department": "Ñorquín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "HuiganCó",
+            "department": "Minas",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Junín de los Andes",
+            "department": "Huiliches",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Coloradas",
+            "department": "Catán Lil",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Lajas",
+            "department": "Picunches",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Ovejas",
+            "department": "Minas",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Loncopué",
+            "department": "Loncopué",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Los Miches",
+            "department": "Minas",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Mariano Moreno",
+            "department": "Zapala",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Neuquén",
+            "department": "Confluencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Picún Leufú",
+            "department": "Picún Leufú",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Piedra del Águila",
+            "department": "Collón Curá",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Plaza Huincul",
+            "department": "Confluencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Plottier",
+            "department": "Confluencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rincón de los Sauces",
+            "department": "Pehuenches",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Martín de los Andes",
+            "department": "Lácar",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Patricio del Chañar",
+            "department": "Añelo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Senillosa",
+            "department": "Confluencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Taquimilán",
+            "department": "Ñorquín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tricao Malal",
+            "department": "Chos Malal",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa El Chocón",
+            "department": "Confluencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa La Angostura",
+            "department": "Los Lagos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Pehuenia",
+            "department": "Aluminé",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Vista Alegre",
+            "department": "Confluencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Zapala",
+            "department": "Zapala",
+            "lat": "",
+            "lon": ""
+          }
       ]
     },
     {
@@ -5141,10 +5461,365 @@
       "lon": "-64.8144629600627",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Aguaray",
+          "department": "General José de San Martín",
           "lat": "",
           "lon": ""
-        }
+        },
+        {
+            "nameCity": "Aguas Blancas",
+            "department": "Orán",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Angastaco",
+            "department": "San Carlos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Animaná",
+            "department": "San Carlos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Apolinario Saravia",
+            "department": "Anta",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cachi",
+            "department": "Cachi",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cafayate",
+            "department": "Cafayate",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Campo Quijano",
+            "department": "Rosario de Lerma",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Campo Santo",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cerrillos",
+            "department": "Cerillos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Chicoana",
+            "department": "Chicoana",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Santa Rosa",
+            "department": "Orán",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Coronel Moldes",
+            "department": "La Viña",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Bordo",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Carril",
+            "department": "Chicoana",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Galpón",
+            "department": "Metán",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Jardín",
+            "department": "La Candelaria",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Potrero",
+            "department": "Rosario de la Frontera",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Quebrachal ",
+            "department": "Anta",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Tala",
+            "department": "La Candelaria",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Embarcación",
+            "department": "General José de San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Ballivián",
+            "department": "General José de San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Güemes",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Mosconi",
+            "department": "General José de San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Pizarro",
+            "department": "Anta",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Guachipas",
+            "department": "Guachipas",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Hipólito Yrigoyen",
+            "department": "Orán",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Iruya",
+            "department": "Iruya",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Isla de Cañas",
+            "department": "Iruya",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Joaquín Víctor González",
+            "department": "Anta",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Caldera",
+            "department": "Iruya",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Candelaria",
+            "department": "La Candelaria",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Merced",
+            "department": "Cerillos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Poma",
+            "department": "La Poma",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Viña",
+            "department": "La Viña",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Lajitas",
+            "department": "Anta",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Los Toldos",
+            "department": "Santa Victoria",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Molinos",
+            "department": "Molinos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Nazareno",
+            "department": "Santa Victoria",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Payogasta",
+            "department": "Cachi",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pichanal",
+            "department": "Orán",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Profesor Salvador Mazza",
+            "department": "General José de San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rivadavia Banda Norte",
+            "department": "Rivadavia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rivadavia Banda Sur",
+            "department": "Rivadavia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rosario de La Frontera",
+            "department": "Rosario de La Frontera",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rosario de Lerma",
+            "department": "Rosario de Lerma",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Río Piedras",
+            "department": "Metán",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Salta",
+            "department": "Capital",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Antonio de Los Cobres",
+            "department": "Los Andes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Carlos",
+            "department": "San Carlos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San José de Metán",
+            "department": "Metán",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Ramón de la Nueva Orán",
+            "department": "Orán",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santa Victoria Este",
+            "department": "Rivadavia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santa Victoria Oeste",
+            "department": "Santa Victoria",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Seclantás",
+            "department": "Molinos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tartagal",
+            "department": "General José de San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tolar Grande",
+            "department": "Los Andes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Urundel",
+            "department": "Orán",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Vaqueros",
+            "department": "Iruya",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa San Lorenzo",
+            "department": "Capital",
+            "lat": "",
+            "lon": ""
+          }
       ]
     },
     {
@@ -5153,10 +5828,425 @@
       "lon": "-60.7658307438603",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Aviá Teraí",
+          "department": "Independencia",
           "lat": "",
           "lon": ""
-        }
+        },
+        {
+            "nameCity": "Barranqueras",
+            "department": "San Fernando",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Basail",
+            "department": "San Fernando ",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Campo Largo",
+            "department": "Independencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Capitán Solari",
+            "department": "Sargento Cabral",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Charadai",
+            "department": "Tapenagá",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Charata",
+            "department": "Chacabuco",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Chorotis",
+            "department": "Fray Justo Santa María de Oro",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ciervo Petiso",
+            "department": "Libertador General San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Aborigen",
+            "department": "Veinticinco de Mayo/Quitilipi",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Benítez",
+            "department": "Primero de Mayo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Elisa",
+            "department": "Sargento Cabral",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonia Popular",
+            "department": "Libertad",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colonias Unidas",
+            "department": "Sargento Cabral",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Concepción del Bermejo",
+            "department": "Almirante Brown",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Coronel Du Graty",
+            "department": "Mayor Luis Jorge Fontana",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Corzuela",
+            "department": "General Belgrano",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cote Lai",
+            "department": "Tapenagá",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Espinillo",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Sauzalito",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Enrique Urién",
+            "department": "Mayor Jorge Luis Fontana",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Fontana",
+            "department": "San Fernando",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Fuerte Esperanza",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Gancedo",
+            "department": "Doce de Octubre",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Capdevila",
+            "department": "Doce de Octubre",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General José de San Martín",
+            "department": "Libertador General San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Pinedo",
+            "department": "Doce de Octubre",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Vedia",
+            "department": "Bermejo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Hermoso Campo",
+            "department": "Dos de Abril",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Isla del Cerrito",
+            "department": "Bermejo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Juan José Castelli",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Clotilde",
+            "department": "O'Higgins",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Eduvigis",
+            "department": "Libertador General San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Escondida",
+            "department": "General Donovan",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Leonesa",
+            "department": "Bermejo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Tigra",
+            "department": "O'Higgins",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Verde",
+            "department": "General Donovan",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Laguna Blanca",
+            "department": "Libertad",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Laguna Limpia",
+            "department": "Libertador General San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lapachito",
+            "department": "General Donovan",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Breñas",
+            "department": "Nueve de Julio",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Garcitas",
+            "department": "Sargento Cabral",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Palmas",
+            "department": "Bermejo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Los Frentones",
+            "department": "Almirante Brown",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Machagai",
+            "department": "Veiticinco de Mayo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Makallé",
+            "department": "General Donovan",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Margarita Belén",
+            "department": "Primero de Mayo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Miraflores",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Misión Nueva Pompeya",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Napenay",
+            "department": "Independencia",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pampa Almirón",
+            "department": "Libertador General San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pampa del Indio",
+            "department": "Libertador General San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pampa del Infierno",
+            "department": "Almirante Brown",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Presidencia de la Plaza",
+            "department": "Presidencia de la Plaza",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Presidencia Roca",
+            "department": "Libertador General San Martín",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Presidencia Roque Sáenz Peña",
+            "department": "Comandante Fernández",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Puerto Bermejo",
+            "department": "Bermejo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Puerto Eva Perón",
+            "department": "Bermejo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Puerto Tirol",
+            "department": "Libertad",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Puerto Vilelas",
+            "department": "San Fernando",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Quitilipi",
+            "department": "Quitilipi",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Resistencia",
+            "department": "San Fernando",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Samuhú",
+            "department": "San Lorenzo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Bernardo",
+            "department": "O'Higgins",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santa Sylvina",
+            "department": "Fray Justo Santa María de Oro",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Taco Pozo",
+            "department": "Almirante Brown",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tres Isletas",
+            "department": "Maipú",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Ángela",
+            "department": "Mayor Luis Jorge Fontana",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Berthet",
+            "department": "San Lorenzo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Río Bermejito",
+            "department": "General Güemes",
+            "lat": "",
+            "lon": ""
+          }
       ]
     },
     {
@@ -5165,10 +6255,167 @@
       "lon": "-59.9324405800872",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Clorinda",
+          "department": "Pilcomayo",
           "lat": "",
           "lon": ""
-        }
+        },
+        {
+            "nameCity": "Comandante Fontana",
+            "department": "Patiño",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Colorado",
+            "department": "Pirané",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Espinillo",
+            "department": "Pilagás",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Estanislao del Campo",
+            "department": "Patiño",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Formosa",
+            "department": "Formosa",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Enrique Mosconi",
+            "department": "Ramón Lista",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Lucio Victorio Mansilla",
+            "department": "Laishí",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Manuel Belgrano",
+            "department": "Patiño",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Herradura",
+            "department": "Laishí",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ibarreta",
+            "department": "Patiño",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ingeniero Guillermo Nicasio Juárez",
+            "department": "Matacos",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Laguna Blanca",
+            "department": "Pilcomayo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Laguna Naick Neck",
+            "department": "Pilcomayo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Laguna Yema",
+            "department": "Bermejo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Lomitas",
+            "department": "Patiño",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Mayor Vicente Villafañe",
+            "department": "Pirané",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Misión San Francisco de Laishí",
+            "department": "Laishí",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Misión Tacaaglé",
+            "department": "Pilagás",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Palo Santo",
+            "department": "Pirané",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pirané",
+            "department": "Pirané",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pozo del Tigre",
+            "department": "Patiño",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Riacho He-Hé",
+            "department": "Pilcomayo",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Martín Dos",
+            "department": "Patiño",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Dos Trece",
+            "department": "Pirané",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Escolar",
+            "department": "Laishí",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa General Güemes",
+            "department": "Patiño",
+            "lat": "",
+            "lon": ""
+          }
       ]
     },
     {
@@ -5177,10 +6424,168 @@
       "lon": "-65.7642522180337",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Abra Pampa",
+          "department": "Cochinoca",
           "lat": "",
           "lon": ""
-        }
+        },
+        {
+            "nameCity": "Aguas Calientes",
+            "department": "El Carmen",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Caimancito",
+            "department": "Ledesma",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Calilegua",
+            "department": "Ledesma",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Aguilar",
+            "department": "Humahuaca",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Carmen",
+            "department": "El Carmen",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "El Talar",
+            "department": "Santa Bárbara",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Fraile Pintado",
+            "department": "Ledesma",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Humahuaca",
+            "department": "Humahuaca",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Esperanza",
+            "department": "San Pedro",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Mendieta",
+            "department": "San Pedro",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Quiaca",
+            "department": "Yavi",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Libertador General San Martín",
+            "department": "Ledesma",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Maimará",
+            "department": "Tilcara",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Monterrico",
+            "department": "El Carmen",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Palma Sola",
+            "department": "Santa Bárbara",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Palpalá",
+            "department": "Palpalá",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pampa Blanca",
+            "department": "El Carmen",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Perico",
+            "department": "El Carmen",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Puesto Viejo",
+            "department": "El Carmen",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Antonio",
+            "department": "San Antonio",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Pedro de Jujuy",
+            "department": "San Pedro",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Salvador de Jujuy",
+            "department": "Dr. Manuel Belgrano",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Santa Clara",
+            "department": "Santa Clara",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tilcara",
+            "department": "Tilcara",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Yala",
+            "department": "Dr. Manuel Belgrano",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Yuto",
+            "department": "Ledesma",
+            "lat": "",
+            "lon": ""
+          }
+
       ]
     },
     {
@@ -5189,10 +6594,813 @@
       "lon": "-60.5588319815719",
       "cityes": [
         {
-          "nameCity": "",
+          "nameCity": "Adolfo Alsina",
+          "department": "Pellegrini y Rivadavia. Carhué.",
           "lat": "",
           "lon": ""
-        }
+        },
+        {
+            "nameCity": "Adolfo González Chaves",
+            "department": "Bartolomé Mitre y Juan Elicagaray.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Alberti",
+            "department": "Leandro N. Alem y 9 de Julio.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Almirante Brown",
+            "department": "Rosales 1312.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Arrecifes",
+            "department": "Ricardo Gutiérrez 730.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Avellaneda",
+            "department": "Güemes 835.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ayacucho",
+            "department": "Alem 1078.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Azul",
+            "department": "Hipólito Yrigoyen 424",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Bahía Blanca",
+            "department": "Alsina 65.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Balcarce",
+            "department": "Calle 16 N° 602.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Baradero",
+            "department": "San Martín 905.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Benito Juárez",
+            "department": "Av. Mitre 42.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Berazategui",
+            "department": "Av. 14, entre 131 y 131 A.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Berisso",
+            "department": "Calles 6 y 166.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Bolívar",
+            "department": "Avenida Belgrano 11.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Bragado",
+            "department": "Alsina 178.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Brandsen",
+            "department": "Sáenz Peña 752.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Campana",
+            "department": "Av. Varela 371.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Cañuelas",
+            "department": "Av. Libertad y del Carmen.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Capitán Sarmiento",
+            "department": "Centenario 499.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Carlos Casares",
+            "department": "Monseñor D'Andrea 25.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Carlos Tejedor",
+            "department": "Almirón 301.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Carmen de Areco",
+            "department": "Moreno 541.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Carmen de Patagones",
+            "department": "Comodoro Martín Rivadavia 193.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Castelli",
+            "department": "Av. 25 de Mayo 205.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Chacabuco",
+            "department": "Reconquista 26.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Chascomús",
+            "department": "Cramer 270.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Chivilcoy",
+            "department": "25 de Mayo 35.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Colón",
+            "department": "Calles 51 y 17.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Coronel Dorrego",
+            "department": "Av. Fuertes 630.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Coronel Pringles",
+            "department": "Av. 25 de Mayo s/n.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Coronel Rosales",
+            "department": "Rivadavia 584.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Coronel Suárez",
+            "department": "Av. Alsina 150.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Daireaux",
+            "department": "Levalle 150.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Dolores",
+            "department": "Castelli y San Martín.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ensenada",
+            "department": "Don Bosco y La Merced.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Escobar",
+            "department": "J. M. Estrada 599.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Esteban Echeverría",
+            "department": "Sofía T. de Santamarina 455.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Exaltación de la Cruz",
+            "department": "Rivadavia 411.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ezeiza",
+            "department": "Avellaneda 51.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Florencio Varela",
+            "department": "25 de Mayo 2725.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Florentino Ameghino",
+            "department": "Calle 9 de Julio 668.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Alvarado",
+            "department": "Calle 28 N° 1084.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Alvear",
+            "department": "Hipólito Yrigoyen 630.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Arenales",
+            "department": "Av. Bartolomé Mitre 50.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Belgrano",
+            "department": "Juan E. de la Fuente 826.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Guido",
+            "department": "Belgrano 450.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General La Madrid",
+            "department": "San Martín 565.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Las Heras",
+            "department": "Av. Villamayor 250.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Lavalle",
+            "department": "Bartolomé Mitre 861.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Madariaga",
+            "department": "Hipólito Yrigoyen 347.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Paz",
+            "department": "Obdulio Hernández Castro 2858. Ranchos.",
+            "lat": "",
+            "lon": ""
+          }, {
+            "nameCity": "General Pinto",
+            "department": "Mitre y Alsina.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Pueyrredón",
+            "department": "Hipólito Yrigoyen 1627. Mar del Plata.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Rodríguez",
+            "department": "2 de Abril 756.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General San Martín",
+            "department": "Calle 52 (Belgrano) N° 3747.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Viamonte",
+            "department": "Bartolomé Mitre 991.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "General Villegas",
+            "department": "Pringles 351.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Guaminí",
+            "department": "Plaza Alsina s/n.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Hipólito Yrigoyen",
+            "department": "Moreno y 9 de Julio.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Hurlingham",
+            "department": "Pedro Díaz 1710.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ituzaingó",
+            "department": "Peatonal Eva Perón 848.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "José C. Paz",
+            "department": "Gaspar Campos 6151.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Junín",
+            "department": "Bto. de Miguel 5.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Costa",
+            "department": "Av.Costanera 8001. Mar del Tuyú.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Matanza",
+            "department": "Almafuerte 3050. San Justo.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "La Plata",
+            "department": "Calle 12 e/51 y 53.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lanús",
+            "department": "Av. Hipólito Yrigoyen 3863.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Laprida",
+            "department": "Avda. San Martín 1160.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Las Flores",
+            "department": "Av. Rivadavia y San Martín.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Leandro N. Alem",
+            "department": "Rivadavia 240. Vedia.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lezama",
+            "department": "Hipólito Yrigoyen 311.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lincoln",
+            "department": "Av. Massey 1130.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lobería",
+            "department": "Av. San Martín 51.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lobos",
+            "department": "Salgado 40",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Lomas de Zamora",
+            "department": "Manuel Castro 220.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Luján",
+            "department": "San Martín 550.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Magdalena",
+            "department": "Brenan 970.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Maipú",
+            "department": "Rivadavia 455.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Malvinas Argentinas",
+            "department": "Av. Pte. Perón 4276.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Mar Chiquita",
+            "department": "Beltrami 50.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Marcos Paz",
+            "department": "Aristóbulo del Valle 1946.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Mercedes",
+            "department": "Calle 29 N° 575.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Merlo",
+            "department": "Gral. San Martín 391.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Monte Hermoso",
+            "department": "Nélida Fossatty 250.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Moreno",
+            "department": "E. Asconapé 51.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Morón",
+            "department": "Alte. Brown 946.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Navarro",
+            "department": "Calle 107 N° 80.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Necochea",
+            "department": "Calle 56 Nº 2945.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Nueve de Julio",
+            "department": "Libertad 934.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Olavarría",
+            "department": "Rivadavia 2801.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pehuajó",
+            "department": "Alsina 555.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pellegrini",
+            "department": "Alsina 250.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pergamino",
+            "department": "Florida 629.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pila",
+            "department": "Máximo Planes de Casco 150.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pilar",
+            "department": "Rivadavia 660.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Pinamar",
+            "department": "Av. Shaw 18.",
+            "lat": "",
+            "lon": ""
+          }, {
+            "nameCity": "Presidente Perón",
+            "department": "Crisólogo Larralde 241. Guernica.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Puan",
+            "department": "Victoriano de Ortúzar 51.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Punta Indio",
+            "department": "Calle 30, entre 25 y 27.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Quilmes",
+            "department": "Alberdi y Gral. Paz.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Ramallo",
+            "department": "Av. San Martín y Belgrano.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rauch",
+            "department": "Rivadavia 750.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rivadavia",
+            "department": "Marcos Cachau 50.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Rojas",
+            "department": "Bartolomé Mitre 428.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Roque Pérez",
+            "department": "Bartolomé Mitre 1310.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Saavedra",
+            "department": "Humberto 1º y Ciudad de Rodez. Pigüé.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Saladillo",
+            "department": "San Martín 3151.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Salliqueló",
+            "department": "9 de Julio y Rivadavia.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Salto",
+            "department": "Buenos Aires 369.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Andrés de Giles",
+            "department": "Moreno 338.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Antonio de Areco",
+            "department": "Lavalle 363.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Cayetano",
+            "department": "Av. San Martín 439.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Fernando",
+            "department": "Madero 1218.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Isidro",
+            "department": "9 de Julio 526.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Miguel",
+            "department": "Sarmiento 1551.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Miguel del Monte",
+            "department": "Laura Giagnacovo 636.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Nicolás",
+            "department": "Rivadavia 51.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Pedro",
+            "department": "Pellegrini 150.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "San Vicente",
+            "department": "Av. Sarmiento 39.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Suipacha",
+            "department": "San Martín 325.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tandil",
+            "department": "Belgrano 485.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tapalqué",
+            "department": "Av San Martín 179.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tigre",
+            "department": "Av. Cazón 1514.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tordillo",
+            "department": "Hernández y San Martín.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tornquist",
+            "department": "Sarmiento 53.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Trenque Lauquen",
+            "department": "Boulevard Villegas 555.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tres Arroyos",
+            "department": "Av. Rivadavia 1.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tres de Febrero",
+            "department": "Alberdi 4840.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Tres Lomas",
+            "department": "Rivadavia 149.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Veinticinco de Mayo",
+            "department": "Calles 9 y 27.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Vicente López",
+            "department": "Av. Maipú 2609.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villa Gesell",
+            "department": "Avenida 3 Nº 820.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Villarino",
+            "department": "Moreno 41. Médanos.",
+            "lat": "",
+            "lon": ""
+          },
+          {
+            "nameCity": "Zárate",
+            "department": "Rivadavia 751.",
+            "lat": "",
+            "lon": ""
+          }
       ]
     },
     {
