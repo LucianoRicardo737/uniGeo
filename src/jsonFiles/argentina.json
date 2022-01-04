@@ -1339,7 +1339,236 @@
       "lon": "-67.229329893694",
       "cities": [
         {
-          "nameCity": "",
+          "nameCity": "Allen",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Campo Grande",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Catriel",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cervantes",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chichinales",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Chimpay",
+          "department": "Avellaneda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Choele Choel",
+          "department": "Avellaneda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cinco Saltos",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Cipolletti",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Comallo",
+          "department": "Pilcaniyeu",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Contralmirante Cordero",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Coronel Belisle",
+          "department": "Avellaneda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Darwin",
+          "department": "Avellaneda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Dina Huapi",
+          "department": "Pilcaniyeu",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "El Bolsón",
+          "department": "Bariloche",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Conesa",
+          "department": "Conesa",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Enrique Godoy",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Fernández Oro",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "General Roca",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Guardia Mitre",
+          "department": "Adolfo Alsina",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ingeniero Jacobacci",
+          "department": "Veinticinco de Mayo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ingeniero Luis A. Huergo",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Lamarque",
+          "department": "Avellaneda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Los Menucos",
+          "department": "Veinticinco de Mayo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Luis Beltrán",
+          "department": "Avellaneda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Mainqué",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Maquinchao",
+          "department": "Veinticinco de Mayo",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ministro Ramos Mexía",
+          "department": "Nueve de Julio",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pilcaniyeu",
+          "department": "Pilcaniyeu",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Pomona",
+          "department": "Avellaneda",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Río Colorado",
+          "department": "Pichi Mahuida",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Antonio Oeste",
+          "department": "San Antonio",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "San Carlos de Bariloche",
+          "department": "Bariloche",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sierra Colorada",
+          "department": "Nueve de Julio",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Sierra Grande",
+          "department": "San Antonio",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Valcheta",
+          "department": "Valcheta",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Viedma",
+          "department": "Adolfo Alsina",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Villa Regina",
+          "department": "General Roca",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "nameCity": "Ñorquincó",
+          "department": "Ñorquincó",
           "lat": "",
           "lon": ""
         }
