@@ -33,8 +33,7 @@ router.post("/addNewCountry", async (req, res) => {
       religionCountry,
       coinCountry,
       agreementsCountry,
-      states,
-      cities,
+      states
     } = req.body;
 
     const newCountryData = new CountriesDb({
@@ -47,8 +46,7 @@ router.post("/addNewCountry", async (req, res) => {
       religionCountry,
       coinCountry,
       agreementsCountry,
-      states,
-      cities,
+      states
     });
 
     const saveNewCountry = await newCountryData.save();

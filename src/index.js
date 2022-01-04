@@ -27,6 +27,8 @@ const server = app.listen(app.get('port'), ()=>{
     console.log(`Connection successful on port ${app.get('port')}`);
 });
 
-app.use('/unigeo', require("./routes/countries_routes"));
+app.use('/unigeo/country', require("./routes/countries_routes"));
+app.use('/unigeo/state', require("./routes/states_routes"));
+
 
 module.exports=server; 
