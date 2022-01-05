@@ -1,27 +1,27 @@
-require("dotenv").config();
-const router = require("express").Router();
+require('dotenv').config()
+const router = require('express').Router()
 
-const CountriesDb = require("../schema/countries");
+const CountriesDb = require('../schema/countries')
 
-router.get("/getAllCountryes", async (req, res) => {
+router.get('/getAllCountryes', async (req, res) => {
   try {
-    const allCountrys = await CountriesDb.find();
-    res.send(allCountrys);
+    const allCountrys = await CountriesDb.find()
+    res.send(allCountrys)
   } catch (error) {
-    console.log(error);
+    console.log(error)
   }
-});
+})
 
-router.get("/getCounty/:id", async (req, res) => {
+router.get('/getCounty/:id', async (req, res) => {
   try {
-    const allCountrys = await CountriesDb.findOne({_id:req.params.id});
-    res.send(allCountrys);
+    const allCountrys = await CountriesDb.findOne({_id:req.params.id})
+    res.send(allCountrys)
   } catch (error) {
-    console.log(error);
+    console.log(error)
   }
-});
+})
 
-router.post("/addNewCountry", async (req, res) => {
+router.post('/addNewCountry', async (req, res) => {
   try {
     let {
       nameCountry,
@@ -34,7 +34,7 @@ router.post("/addNewCountry", async (req, res) => {
       coinCountry,
       agreementsCountry,
       states
-    } = req.body;
+    } = req.body
 
     const newCountryData = new CountriesDb({
       nameCountry,
@@ -47,26 +47,26 @@ router.post("/addNewCountry", async (req, res) => {
       coinCountry,
       agreementsCountry,
       states
-    });
+    })
 
-    const saveNewCountry = await newCountryData.save();
-    res.send(saveNewCountry);
+    const saveNewCountry = await newCountryData.save()
+    res.send(saveNewCountry)
   } catch (error) {
-    console.log(error);
+    console.log(error)
   }
-});
+})
 
-router.delete("/deleteThisCountry/:id", async (req,res)=>{
-    try {
-        const idCountry = req.params.id
-        await CountriesDb.deleteOne({
-            _id:idCountry
-        })
-        console.log(idCountry)
+router.delete('/deleteThisCountry/:id', async (req,res)=>{
+  try {
+    const idCountry = req.params.id
+    await CountriesDb.deleteOne({
+      _id:idCountry
+    })
+    console.log(idCountry)
 
-    } catch (error) {
-        console.log(error)
-    }
-});
+  } catch (error) {
+    console.log(error)
+  }
+})
 
-module.exports = router;
+module.exports = router
