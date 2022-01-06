@@ -3,7 +3,7 @@ const router = require('express').Router()
 
 const StateCollection = require('../schema/states')
 
-router.get('/getAllCountryes', async (req, res) => {
+router.get('/getAllStates', async (req, res) => {
   try {
     const allCountrys = await StateCollection.find()
     res.send(allCountrys)
@@ -19,6 +19,20 @@ router.get('/getState/:id', async (req, res) => {
   } catch (error) {
     console.log(error)
   }
+})
+
+router.get('/getStateByName', async (req, res) => {
+
+  const nameCountry = req.get('nameCountry')
+  const nameState = req.get('nameState')
+
+  try {
+    const countryByName = await StateCollection.findOne({nameCountry:nameCountry, nameState:nameState})
+    res.send(countryByName)
+  } catch (error) {
+    console.log(error)
+  }
+
 })
 
 router.post('/addNewState', async (req, res) => {
