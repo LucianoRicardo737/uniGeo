@@ -12,7 +12,7 @@ require('./database/db')
 const whitelist = ['http://192.168.1.6:3001', 'http://localhost:3001', 'https://www.labler.com.ar', 'https://labler.com.ar']
 app.use(cors(
   {
-    origin: whitelist,
+    origin: '*',
     creadentials: true,
     optionsSuccessStatus: 200
   } 
