@@ -5,9 +5,6 @@ const CountriesDb = require('../schema/countries')
 
 router.get('/getAllCountryes', async (req, res) => {
   try {
-
-    console.log('Llega')
-    return null
     const allCountrys = await CountriesDb.find()
     res.send(allCountrys)
   } catch (error) {
